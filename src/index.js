@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import { QueryClient, QueryClientProvider } from "react-query";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { BoundBox } from "views";
+import { BoundBox, Polygons } from "views";
 import App from "./App";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
@@ -16,6 +16,7 @@ ReactDOM.render(
         <Routes>
           <Route index path={"/"} element={<App />} />
           <Route path={"/BoundBox"} element={<BoundBox />} />
+          <Route path={"/Polygons"} element={<Polygons />} />
         </Routes>
       </BrowserRouter>
     </QueryClientProvider>
