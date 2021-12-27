@@ -4,6 +4,11 @@ import logo from "./logo.svg";
 function App() {
   // const { isLoading, isError, data, error } = useQuery("todos", async () => {
   //   // const data = await fetch("http://10.50.20.16:5000/sharing/XzZQAH8pQ");
+  //   const data = await axios({
+  //     methods: "get",
+  //     baseUrl: "http://10.50.20.16:5000/",
+  //     url: "sharing/XzZQAH8pQ",
+  //   });
   //   console.log(data);
   //   return data;
   // });

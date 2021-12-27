@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useCallback, useEffect, useRef, useState } from "react";
 import { createUseStyles } from "react-jss";
 
 const useStyles = createUseStyles({
@@ -14,7 +14,8 @@ function draw(canvas, coordinates) {
   console.log(coordinates);
   if (canvas.getContext) {
     let ctx = canvas.getContext("2d");
-    ctx.clearRect(0, 0, 400, 400);
+    console.log(ctx);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.beginPath();
     ctx.moveTo(coordinates[0][0], coordinates[0][1]);
     ctx.lineTo(coordinates[0][0], coordinates[0][1]);
@@ -34,36 +35,46 @@ const BoundBox = (props) => {
     [100, 100],
     [100, 0],
   ]);
-
-  useEffect(() => {
+  const drawing = useCallback(() => {
     draw(canvasRef.current, coordinates);
   }, [coordinates]);
+
+  useEffect(() => {
+    window.requestAnimationFrame(drawing);
+    return () => {
+      Window.cancelAnimationFrame();
+    };
+  }, [drawing]);
   console.log(coordinates);
   return (
     <div>
       <canvas className={styles.canvas} ref={canvasRef} />
-      <input
-        type={"number"}
-        value={coordinates[0][0]}
-        onChange={(e) => {
-          console.log(e.target.value);
-          let modify = [...coordinates];
-          modify[0][0] = e.target.value;
-          setCoordinates(modify);
-        }}
-      />
-      <input
-        type={"number"}
-        value={coordinates[0][1]}
-        onChange={(e) => {
-          console.log(e.target.value);
-          setCoordinates((prev) => {
-            let modify = prev;
-            modify[0][1] = e.target.value;
-            return modify;
-          });
-        }}
-      />
+      <div>
+        {coordinates.map((item, index) => {
+          return (
+            <div>
+              <input
+                type={"number"}
+                value={item[0]}
+                onChange={(e) => {
+                  let modify = [...coordinates];
+                  modify[index][0] = e.target.value;
+                  setCoordinates(modify);
+                }}
+              />
+              <input
+                type={"number"}
+                value={item[1]}
+                onChange={(e) => {
+                  let modify = [...coordinates];
+                  modify[index][1] = e.target.value;
+                  setCoordinates(modify);
+                }}
+              />
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 };
