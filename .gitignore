@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/saveactions_settings.xml
+/.idea/svscreening.iml
+/.idea/vcs.xml
+/.idea/webResources.xml

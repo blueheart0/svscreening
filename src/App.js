@@ -1,7 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import logo from "./logo.svg";
 
 function App() {
+  // const { isLoading, isError, data, error } = useQuery("todos", async () => {
+  //   // const data = await fetch("http://10.50.20.16:5000/sharing/XzZQAH8pQ");
+  //   console.log(data);
+  //   return data;
+  // });
+
   return (
     <div className="App">
       <header className="App-header">
