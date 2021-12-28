@@ -1,27 +1,24 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import { QueryClient, QueryClientProvider } from "react-query";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { BoundBox, Polygons } from "views";
+import {BrowserRouter, Route, Routes} from "react-router-dom";
+import {BoundBox, Polygons, VideoViewer} from "views";
 import App from "./App";
 import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
-const queryClient = new QueryClient();
 ReactDOM.render(
-  <React.StrictMode>
-    <QueryClientProvider client={queryClient}>
-      <BrowserRouter>
-        <Routes>
-          <Route index path={"/"} element={<App />} />
-          <Route path={"/BoundBox"} element={<BoundBox />} />
-          <Route path={"/Polygons"} element={<Polygons />} />
-        </Routes>
-      </BrowserRouter>
-    </QueryClientProvider>
-  </React.StrictMode>,
-  document.getElementById("root")
+    <React.StrictMode>
+        <BrowserRouter>
+            <Routes>
+                <Route index path={"/"} element={<App/>}/>
+                <Route path={"/BoundBox"} element={<BoundBox/>}/>
+                <Route path={"/Polygons"} element={<Polygons/>}/>
+                <Route path={"/VideoViewer"} element={<VideoViewer/>}/>
+            </Routes>
+        </BrowserRouter>
+    </React.StrictMode>,
+    document.getElementById("root")
 );
 
 // If you want to start measuring performance in your app, pass a function
