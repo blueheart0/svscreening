@@ -10,7 +10,7 @@ const useStyles = createUseStyles({
         width: "30%"
     }
 });
-const FPS = 1000 / 33.333333333;
+const FPS = 1000 / 33.33;
 
 const VideoViewer = props => {
     const styles = useStyles();
