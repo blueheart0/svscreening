@@ -6,7 +6,6 @@ import {HTML5Backend} from "react-dnd-html5-backend";
 import {createUseStyles} from "react-jss";
 
 const useStyles = createUseStyles(props => {
-
     return {
         canvas: {
             width: 400,
@@ -127,8 +126,8 @@ const RawBoundBox = (props) => {
         };
     }, [drawing]);
     return (
-
         <div style={{marginLeft: 30, marginTop: 30}}>
+            <a href={"/"}>{"Back"}</a>
             <div ref={drop} className={styles.dragLayer}>
                 {
                     coordinates.map((item, index) => {

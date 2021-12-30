@@ -4,7 +4,6 @@ import ReactDOM from "react-dom";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 import {BoundBox, Polygons, VideoViewer} from "views";
 import App from "./App";
-import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
