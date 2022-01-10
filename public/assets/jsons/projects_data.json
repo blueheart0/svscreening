@@ -1,0 +1,7585 @@
+[
+  {
+    "id": 1,
+    "status": "Ready",
+    "endDate": "10/26/2021"
+  },
+  {
+    "id": 2,
+    "status": "Ready",
+    "endDate": "06/06/2020"
+  },
+  {
+    "id": 3,
+    "status": "Ready",
+    "endDate": "11/03/2020"
+  },
+  {
+    "id": 4,
+    "status": "Finished",
+    "endDate": "12/20/2020",
+    "result": {
+      "pedestrian": 7820,
+      "rider": 1455,
+      "truck": 5479,
+      "cyclist": 829,
+      "forklift": 1922,
+      "car": 4874
+    }
+  },
+  {
+    "id": 5,
+    "status": "In-Progress",
+    "endDate": "01/25/2020"
+  },
+  {
+    "id": 6,
+    "status": "Finished",
+    "endDate": "09/04/2021",
+    "result": {
+      "pedestrian": 3784,
+      "rider": 5120,
+      "truck": 8477,
+      "cyclist": 1096,
+      "forklift": 3047,
+      "car": 5134
+    }
+  },
+  {
+    "id": 7,
+    "status": "Ready",
+    "endDate": "10/04/2020"
+  },
+  {
+    "id": 8,
+    "status": "In-Progress",
+    "endDate": "05/28/2021"
+  },
+  {
+    "id": 9,
+    "status": "Ready",
+    "endDate": "12/07/2021"
+  },
+  {
+    "id": 10,
+    "status": "In-Progress",
+    "endDate": "05/16/2021"
+  },
+  {
+    "id": 11,
+    "status": "Ready",
+    "endDate": "01/20/2021"
+  },
+  {
+    "id": 12,
+    "status": "In-Progress",
+    "endDate": "06/29/2021"
+  },
+  {
+    "id": 13,
+    "status": "Ready",
+    "endDate": "06/02/2020"
+  },
+  {
+    "id": 14,
+    "status": "Finished",
+    "endDate": "08/04/2021",
+    "result": {
+      "pedestrian": 271,
+      "rider": 239,
+      "truck": 7101,
+      "cyclist": 6143,
+      "forklift": 2284,
+      "car": 5397
+    }
+  },
+  {
+    "id": 15,
+    "status": "Ready",
+    "endDate": "08/05/2021"
+  },
+  {
+    "id": 16,
+    "status": "Ready",
+    "endDate": "08/19/2021"
+  },
+  {
+    "id": 17,
+    "status": "Finished",
+    "endDate": "04/22/2020",
+    "result": {
+      "pedestrian": 3357,
+      "rider": 3788,
+      "truck": 3475,
+      "cyclist": 6464,
+      "forklift": 6114,
+      "car": 7412
+    }
+  },
+  {
+    "id": 18,
+    "status": "In-Progress",
+    "endDate": "04/16/2021"
+  },
+  {
+    "id": 19,
+    "status": "In-Progress",
+    "endDate": "04/14/2020"
+  },
+  {
+    "id": 20,
+    "status": "In-Progress",
+    "endDate": "01/10/2021"
+  },
+  {
+    "id": 21,
+    "status": "In-Progress",
+    "endDate": "10/31/2020"
+  },
+  {
+    "id": 22,
+    "status": "Finished",
+    "endDate": "10/31/2020",
+    "result": {
+      "pedestrian": 3423,
+      "rider": 7975,
+      "truck": 6387,
+      "cyclist": 1338,
+      "forklift": 9543,
+      "car": 2261
+    }
+  },
+  {
+    "id": 23,
+    "status": "Ready",
+    "endDate": "02/20/2021"
+  },
+  {
+    "id": 24,
+    "status": "Finished",
+    "endDate": "11/14/2020",
+    "result": {
+      "pedestrian": 1292,
+      "rider": 6747,
+      "truck": 8647,
+      "cyclist": 5559,
+      "forklift": 1957,
+      "car": 5697
+    }
+  },
+  {
+    "id": 25,
+    "status": "In-Progress",
+    "endDate": "01/26/2021"
+  },
+  {
+    "id": 26,
+    "status": "Finished",
+    "endDate": "05/27/2021",
+    "result": {
+      "pedestrian": 2367,
+      "rider": 8587,
+      "truck": 3193,
+      "cyclist": 2202,
+      "forklift": 3850,
+      "car": 3236
+    }
+  },
+  {
+    "id": 27,
+    "status": "Ready",
+    "endDate": "11/17/2020"
+  },
+  {
+    "id": 28,
+    "status": "In-Progress",
+    "endDate": "01/04/2021"
+  },
+  {
+    "id": 29,
+    "status": "In-Progress",
+    "endDate": "09/26/2021"
+  },
+  {
+    "id": 30,
+    "status": "In-Progress",
+    "endDate": "07/15/2020"
+  },
+  {
+    "id": 31,
+    "status": "Finished",
+    "endDate": "06/24/2021",
+    "result": {
+      "pedestrian": 6579,
+      "rider": 7561,
+      "truck": 1591,
+      "cyclist": 2752,
+      "forklift": 9959,
+      "car": 1942
+    }
+  },
+  {
+    "id": 32,
+    "status": "Finished",
+    "endDate": "06/24/2020",
+    "result": {
+      "pedestrian": 4067,
+      "rider": 3469,
+      "truck": 1470,
+      "cyclist": 8270,
+      "forklift": 8468,
+      "car": 2556
+    }
+  },
+  {
+    "id": 33,
+    "status": "In-Progress",
+    "endDate": "11/03/2020"
+  },
+  {
+    "id": 34,
+    "status": "Finished",
+    "endDate": "08/05/2021",
+    "result": {
+      "pedestrian": 3450,
+      "rider": 7952,
+      "truck": 496,
+      "cyclist": 7494,
+      "forklift": 9333,
+      "car": 1035
+    }
+  },
+  {
+    "id": 35,
+    "status": "In-Progress",
+    "endDate": "09/09/2020"
+  },
+  {
+    "id": 36,
+    "status": "Finished",
+    "endDate": "08/28/2020",
+    "result": {
+      "pedestrian": 7779,
+      "rider": 9703,
+      "truck": 1060,
+      "cyclist": 5088,
+      "forklift": 5814,
+      "car": 8970
+    }
+  },
+  {
+    "id": 37,
+    "status": "In-Progress",
+    "endDate": "03/29/2021"
+  },
+  {
+    "id": 38,
+    "status": "Finished",
+    "endDate": "05/01/2021",
+    "result": {
+      "pedestrian": 2835,
+      "rider": 7858,
+      "truck": 7054,
+      "cyclist": 7776,
+      "forklift": 3698,
+      "car": 9589
+    }
+  },
+  {
+    "id": 39,
+    "status": "In-Progress",
+    "endDate": "05/15/2021"
+  },
+  {
+    "id": 40,
+    "status": "Ready",
+    "endDate": "03/12/2020"
+  },
+  {
+    "id": 41,
+    "status": "Finished",
+    "endDate": "03/31/2021",
+    "result": {
+      "pedestrian": 4348,
+      "rider": 3905,
+      "truck": 8627,
+      "cyclist": 8560,
+      "forklift": 1588,
+      "car": 1668
+    }
+  },
+  {
+    "id": 42,
+    "status": "Ready",
+    "endDate": "06/23/2021"
+  },
+  {
+    "id": 43,
+    "status": "Ready",
+    "endDate": "12/29/2021"
+  },
+  {
+    "id": 44,
+    "status": "Ready",
+    "endDate": "01/17/2021"
+  },
+  {
+    "id": 45,
+    "status": "Finished",
+    "endDate": "03/31/2021",
+    "result": {
+      "pedestrian": 6121,
+      "rider": 1189,
+      "truck": 3936,
+      "cyclist": 8779,
+      "forklift": 4519,
+      "car": 6865
+    }
+  },
+  {
+    "id": 46,
+    "status": "Finished",
+    "endDate": "08/27/2021",
+    "result": {
+      "pedestrian": 5191,
+      "rider": 565,
+      "truck": 8158,
+      "cyclist": 6823,
+      "forklift": 649,
+      "car": 2391
+    }
+  },
+  {
+    "id": 47,
+    "status": "In-Progress",
+    "endDate": "03/28/2020"
+  },
+  {
+    "id": 48,
+    "status": "Ready",
+    "endDate": "08/18/2021"
+  },
+  {
+    "id": 49,
+    "status": "Ready",
+    "endDate": "02/14/2021"
+  },
+  {
+    "id": 50,
+    "status": "Ready",
+    "endDate": "09/27/2020"
+  },
+  {
+    "id": 51,
+    "status": "In-Progress",
+    "endDate": "08/11/2021"
+  },
+  {
+    "id": 52,
+    "status": "Finished",
+    "endDate": "02/08/2020",
+    "result": {
+      "pedestrian": 2162,
+      "rider": 9194,
+      "truck": 7285,
+      "cyclist": 6355,
+      "forklift": 9624,
+      "car": 2003
+    }
+  },
+  {
+    "id": 53,
+    "status": "Ready",
+    "endDate": "07/23/2021"
+  },
+  {
+    "id": 54,
+    "status": "Ready",
+    "endDate": "08/08/2020"
+  },
+  {
+    "id": 55,
+    "status": "Ready",
+    "endDate": "07/31/2021"
+  },
+  {
+    "id": 56,
+    "status": "In-Progress",
+    "endDate": "11/18/2021"
+  },
+  {
+    "id": 57,
+    "status": "Finished",
+    "endDate": "12/30/2021",
+    "result": {
+      "pedestrian": 2089,
+      "rider": 1140,
+      "truck": 3893,
+      "cyclist": 8576,
+      "forklift": 1671,
+      "car": 2122
+    }
+  },
+  {
+    "id": 58,
+    "status": "In-Progress",
+    "endDate": "08/08/2021"
+  },
+  {
+    "id": 59,
+    "status": "In-Progress",
+    "endDate": "01/02/2020"
+  },
+  {
+    "id": 60,
+    "status": "Ready",
+    "endDate": "08/28/2021"
+  },
+  {
+    "id": 61,
+    "status": "Finished",
+    "endDate": "11/25/2021",
+    "result": {
+      "pedestrian": 2076,
+      "rider": 5006,
+      "truck": 4158,
+      "cyclist": 9784,
+      "forklift": 7575,
+      "car": 5031
+    }
+  },
+  {
+    "id": 62,
+    "status": "In-Progress",
+    "endDate": "01/04/2021"
+  },
+  {
+    "id": 63,
+    "status": "Ready",
+    "endDate": "05/06/2020"
+  },
+  {
+    "id": 64,
+    "status": "Ready",
+    "endDate": "12/28/2021"
+  },
+  {
+    "id": 65,
+    "status": "Finished",
+    "endDate": "05/17/2020",
+    "result": {
+      "pedestrian": 9872,
+      "rider": 5349,
+      "truck": 6174,
+      "cyclist": 1022,
+      "forklift": 4848,
+      "car": 5660
+    }
+  },
+  {
+    "id": 66,
+    "status": "Ready",
+    "endDate": "01/13/2021"
+  },
+  {
+    "id": 67,
+    "status": "Finished",
+    "endDate": "02/14/2021",
+    "result": {
+      "pedestrian": 3102,
+      "rider": 2379,
+      "truck": 2084,
+      "cyclist": 1942,
+      "forklift": 1273,
+      "car": 268
+    }
+  },
+  {
+    "id": 68,
+    "status": "In-Progress",
+    "endDate": "03/21/2020"
+  },
+  {
+    "id": 69,
+    "status": "In-Progress",
+    "endDate": "08/08/2020"
+  },
+  {
+    "id": 70,
+    "status": "Ready",
+    "endDate": "03/26/2021"
+  },
+  {
+    "id": 71,
+    "status": "Ready",
+    "endDate": "12/15/2020"
+  },
+  {
+    "id": 72,
+    "status": "Finished",
+    "endDate": "09/28/2021",
+    "result": {
+      "pedestrian": 7704,
+      "rider": 6575,
+      "truck": 9146,
+      "cyclist": 4808,
+      "forklift": 5463,
+      "car": 5814
+    }
+  },
+  {
+    "id": 73,
+    "status": "Finished",
+    "endDate": "10/06/2020",
+    "result": {
+      "pedestrian": 8947,
+      "rider": 6447,
+      "truck": 8533,
+      "cyclist": 8869,
+      "forklift": 4280,
+      "car": 4723
+    }
+  },
+  {
+    "id": 74,
+    "status": "Finished",
+    "endDate": "02/16/2021",
+    "result": {
+      "pedestrian": 2898,
+      "rider": 7862,
+      "truck": 9075,
+      "cyclist": 9101,
+      "forklift": 2478,
+      "car": 9309
+    }
+  },
+  {
+    "id": 75,
+    "status": "Ready",
+    "endDate": "06/02/2021"
+  },
+  {
+    "id": 76,
+    "status": "In-Progress",
+    "endDate": "07/18/2020"
+  },
+  {
+    "id": 77,
+    "status": "Ready",
+    "endDate": "10/04/2021"
+  },
+  {
+    "id": 78,
+    "status": "Finished",
+    "endDate": "11/23/2020",
+    "result": {
+      "pedestrian": 6076,
+      "rider": 4367,
+      "truck": 9756,
+      "cyclist": 2655,
+      "forklift": 6092,
+      "car": 3154
+    }
+  },
+  {
+    "id": 79,
+    "status": "In-Progress",
+    "endDate": "04/21/2021"
+  },
+  {
+    "id": 80,
+    "status": "Ready",
+    "endDate": "12/21/2021"
+  },
+  {
+    "id": 81,
+    "status": "In-Progress",
+    "endDate": "05/03/2021"
+  },
+  {
+    "id": 82,
+    "status": "Ready",
+    "endDate": "08/07/2020"
+  },
+  {
+    "id": 83,
+    "status": "In-Progress",
+    "endDate": "11/12/2021"
+  },
+  {
+    "id": 84,
+    "status": "Ready",
+    "endDate": "04/25/2021"
+  },
+  {
+    "id": 85,
+    "status": "Ready",
+    "endDate": "12/18/2021"
+  },
+  {
+    "id": 86,
+    "status": "Ready",
+    "endDate": "11/27/2021"
+  },
+  {
+    "id": 87,
+    "status": "In-Progress",
+    "endDate": "05/04/2020"
+  },
+  {
+    "id": 88,
+    "status": "Finished",
+    "endDate": "01/13/2020",
+    "result": {
+      "pedestrian": 2242,
+      "rider": 6837,
+      "truck": 2678,
+      "cyclist": 9345,
+      "forklift": 9756,
+      "car": 1611
+    }
+  },
+  {
+    "id": 89,
+    "status": "Finished",
+    "endDate": "04/05/2021",
+    "result": {
+      "pedestrian": 5169,
+      "rider": 4,
+      "truck": 1668,
+      "cyclist": 2733,
+      "forklift": 6462,
+      "car": 9462
+    }
+  },
+  {
+    "id": 90,
+    "status": "In-Progress",
+    "endDate": "01/08/2020"
+  },
+  {
+    "id": 91,
+    "status": "Ready",
+    "endDate": "11/18/2020"
+  },
+  {
+    "id": 92,
+    "status": "Finished",
+    "endDate": "04/30/2020",
+    "result": {
+      "pedestrian": 9860,
+      "rider": 1774,
+      "truck": 7671,
+      "cyclist": 3784,
+      "forklift": 4321,
+      "car": 6739
+    }
+  },
+  {
+    "id": 93,
+    "status": "Finished",
+    "endDate": "12/22/2021",
+    "result": {
+      "pedestrian": 2914,
+      "rider": 9881,
+      "truck": 9285,
+      "cyclist": 3670,
+      "forklift": 5573,
+      "car": 4995
+    }
+  },
+  {
+    "id": 94,
+    "status": "Ready",
+    "endDate": "07/08/2020"
+  },
+  {
+    "id": 95,
+    "status": "Ready",
+    "endDate": "03/06/2020"
+  },
+  {
+    "id": 96,
+    "status": "In-Progress",
+    "endDate": "10/01/2021"
+  },
+  {
+    "id": 97,
+    "status": "Finished",
+    "endDate": "05/17/2021",
+    "result": {
+      "pedestrian": 3520,
+      "rider": 8055,
+      "truck": 6647,
+      "cyclist": 8061,
+      "forklift": 1066,
+      "car": 4633
+    }
+  },
+  {
+    "id": 98,
+    "status": "In-Progress",
+    "endDate": "05/12/2020"
+  },
+  {
+    "id": 99,
+    "status": "Ready",
+    "endDate": "05/19/2021"
+  },
+  {
+    "id": 100,
+    "status": "Ready",
+    "endDate": "08/29/2020"
+  },
+  {
+    "id": 101,
+    "status": "In-Progress",
+    "endDate": "01/27/2020"
+  },
+  {
+    "id": 102,
+    "status": "In-Progress",
+    "endDate": "06/18/2021"
+  },
+  {
+    "id": 103,
+    "status": "Finished",
+    "endDate": "03/31/2020",
+    "result": {
+      "pedestrian": 3838,
+      "rider": 2679,
+      "truck": 3108,
+      "cyclist": 5400,
+      "forklift": 2358,
+      "car": 4096
+    }
+  },
+  {
+    "id": 104,
+    "status": "In-Progress",
+    "endDate": "08/18/2021"
+  },
+  {
+    "id": 105,
+    "status": "Finished",
+    "endDate": "12/02/2021",
+    "result": {
+      "pedestrian": 4251,
+      "rider": 1040,
+      "truck": 7302,
+      "cyclist": 304,
+      "forklift": 5739,
+      "car": 4509
+    }
+  },
+  {
+    "id": 106,
+    "status": "Ready",
+    "endDate": "09/15/2020"
+  },
+  {
+    "id": 107,
+    "status": "Ready",
+    "endDate": "08/05/2020"
+  },
+  {
+    "id": 108,
+    "status": "Ready",
+    "endDate": "09/09/2020"
+  },
+  {
+    "id": 109,
+    "status": "Finished",
+    "endDate": "12/05/2021",
+    "result": {
+      "pedestrian": 8130,
+      "rider": 4186,
+      "truck": 453,
+      "cyclist": 2739,
+      "forklift": 1553,
+      "car": 1015
+    }
+  },
+  {
+    "id": 110,
+    "status": "Finished",
+    "endDate": "03/21/2021",
+    "result": {
+      "pedestrian": 7160,
+      "rider": 4066,
+      "truck": 8501,
+      "cyclist": 7434,
+      "forklift": 2931,
+      "car": 2507
+    }
+  },
+  {
+    "id": 111,
+    "status": "Finished",
+    "endDate": "02/26/2020",
+    "result": {
+      "pedestrian": 754,
+      "rider": 597,
+      "truck": 3289,
+      "cyclist": 3486,
+      "forklift": 7405,
+      "car": 6043
+    }
+  },
+  {
+    "id": 112,
+    "status": "Ready",
+    "endDate": "01/04/2022"
+  },
+  {
+    "id": 113,
+    "status": "In-Progress",
+    "endDate": "09/06/2021"
+  },
+  {
+    "id": 114,
+    "status": "Finished",
+    "endDate": "01/01/2022",
+    "result": {
+      "pedestrian": 4570,
+      "rider": 8103,
+      "truck": 1625,
+      "cyclist": 8799,
+      "forklift": 6231,
+      "car": 5501
+    }
+  },
+  {
+    "id": 115,
+    "status": "In-Progress",
+    "endDate": "05/31/2020"
+  },
+  {
+    "id": 116,
+    "status": "In-Progress",
+    "endDate": "07/30/2021"
+  },
+  {
+    "id": 117,
+    "status": "Ready",
+    "endDate": "11/08/2021"
+  },
+  {
+    "id": 118,
+    "status": "Finished",
+    "endDate": "06/20/2021",
+    "result": {
+      "pedestrian": 1301,
+      "rider": 6020,
+      "truck": 5226,
+      "cyclist": 3587,
+      "forklift": 5638,
+      "car": 8384
+    }
+  },
+  {
+    "id": 119,
+    "status": "Ready",
+    "endDate": "08/10/2021"
+  },
+  {
+    "id": 120,
+    "status": "Ready",
+    "endDate": "08/24/2021"
+  },
+  {
+    "id": 121,
+    "status": "Finished",
+    "endDate": "12/23/2020",
+    "result": {
+      "pedestrian": 6089,
+      "rider": 9918,
+      "truck": 4722,
+      "cyclist": 3586,
+      "forklift": 312,
+      "car": 5520
+    }
+  },
+  {
+    "id": 122,
+    "status": "Ready",
+    "endDate": "04/02/2021"
+  },
+  {
+    "id": 123,
+    "status": "Ready",
+    "endDate": "12/03/2021"
+  },
+  {
+    "id": 124,
+    "status": "In-Progress",
+    "endDate": "01/18/2020"
+  },
+  {
+    "id": 125,
+    "status": "In-Progress",
+    "endDate": "07/20/2020"
+  },
+  {
+    "id": 126,
+    "status": "Ready",
+    "endDate": "01/22/2020"
+  },
+  {
+    "id": 127,
+    "status": "Finished",
+    "endDate": "12/23/2021",
+    "result": {
+      "pedestrian": 4361,
+      "rider": 3953,
+      "truck": 3304,
+      "cyclist": 331,
+      "forklift": 7045,
+      "car": 4375
+    }
+  },
+  {
+    "id": 128,
+    "status": "Finished",
+    "endDate": "11/09/2021",
+    "result": {
+      "pedestrian": 1256,
+      "rider": 632,
+      "truck": 7621,
+      "cyclist": 6321,
+      "forklift": 3813,
+      "car": 9783
+    }
+  },
+  {
+    "id": 129,
+    "status": "Ready",
+    "endDate": "07/05/2020"
+  },
+  {
+    "id": 130,
+    "status": "Finished",
+    "endDate": "09/20/2020",
+    "result": {
+      "pedestrian": 1217,
+      "rider": 6671,
+      "truck": 6147,
+      "cyclist": 3290,
+      "forklift": 3710,
+      "car": 6076
+    }
+  },
+  {
+    "id": 131,
+    "status": "Finished",
+    "endDate": "07/02/2021",
+    "result": {
+      "pedestrian": 4477,
+      "rider": 7812,
+      "truck": 7036,
+      "cyclist": 9271,
+      "forklift": 7461,
+      "car": 7003
+    }
+  },
+  {
+    "id": 132,
+    "status": "In-Progress",
+    "endDate": "01/13/2021"
+  },
+  {
+    "id": 133,
+    "status": "Finished",
+    "endDate": "12/23/2021",
+    "result": {
+      "pedestrian": 63,
+      "rider": 5923,
+      "truck": 5137,
+      "cyclist": 6750,
+      "forklift": 8247,
+      "car": 9284
+    }
+  },
+  {
+    "id": 134,
+    "status": "Finished",
+    "endDate": "03/24/2021",
+    "result": {
+      "pedestrian": 5323,
+      "rider": 8360,
+      "truck": 7484,
+      "cyclist": 442,
+      "forklift": 4852,
+      "car": 5681
+    }
+  },
+  {
+    "id": 135,
+    "status": "In-Progress",
+    "endDate": "12/27/2021"
+  },
+  {
+    "id": 136,
+    "status": "In-Progress",
+    "endDate": "06/07/2020"
+  },
+  {
+    "id": 137,
+    "status": "Ready",
+    "endDate": "08/03/2021"
+  },
+  {
+    "id": 138,
+    "status": "Finished",
+    "endDate": "01/28/2021",
+    "result": {
+      "pedestrian": 2070,
+      "rider": 9821,
+      "truck": 7494,
+      "cyclist": 4767,
+      "forklift": 6785,
+      "car": 8339
+    }
+  },
+  {
+    "id": 139,
+    "status": "In-Progress",
+    "endDate": "11/09/2020"
+  },
+  {
+    "id": 140,
+    "status": "In-Progress",
+    "endDate": "07/02/2021"
+  },
+  {
+    "id": 141,
+    "status": "In-Progress",
+    "endDate": "04/05/2021"
+  },
+  {
+    "id": 142,
+    "status": "Finished",
+    "endDate": "03/18/2020",
+    "result": {
+      "pedestrian": 6901,
+      "rider": 2772,
+      "truck": 5959,
+      "cyclist": 6306,
+      "forklift": 9864,
+      "car": 3145
+    }
+  },
+  {
+    "id": 143,
+    "status": "Ready",
+    "endDate": "04/27/2021"
+  },
+  {
+    "id": 144,
+    "status": "Ready",
+    "endDate": "01/26/2021"
+  },
+  {
+    "id": 145,
+    "status": "Ready",
+    "endDate": "09/23/2020"
+  },
+  {
+    "id": 146,
+    "status": "In-Progress",
+    "endDate": "06/05/2020"
+  },
+  {
+    "id": 147,
+    "status": "Ready",
+    "endDate": "07/01/2020"
+  },
+  {
+    "id": 148,
+    "status": "Finished",
+    "endDate": "09/19/2020",
+    "result": {
+      "pedestrian": 4503,
+      "rider": 1564,
+      "truck": 16,
+      "cyclist": 3457,
+      "forklift": 3786,
+      "car": 7866
+    }
+  },
+  {
+    "id": 149,
+    "status": "Ready",
+    "endDate": "05/03/2020"
+  },
+  {
+    "id": 150,
+    "status": "Ready",
+    "endDate": "10/13/2020"
+  },
+  {
+    "id": 151,
+    "status": "Ready",
+    "endDate": "08/16/2021"
+  },
+  {
+    "id": 152,
+    "status": "Finished",
+    "endDate": "04/24/2021",
+    "result": {
+      "pedestrian": 1275,
+      "rider": 9743,
+      "truck": 7990,
+      "cyclist": 8742,
+      "forklift": 5661,
+      "car": 3603
+    }
+  },
+  {
+    "id": 153,
+    "status": "Finished",
+    "endDate": "03/26/2020",
+    "result": {
+      "pedestrian": 7058,
+      "rider": 3263,
+      "truck": 2651,
+      "cyclist": 7997,
+      "forklift": 6130,
+      "car": 1363
+    }
+  },
+  {
+    "id": 154,
+    "status": "In-Progress",
+    "endDate": "04/11/2020"
+  },
+  {
+    "id": 155,
+    "status": "Finished",
+    "endDate": "09/19/2021",
+    "result": {
+      "pedestrian": 7702,
+      "rider": 6527,
+      "truck": 1174,
+      "cyclist": 3626,
+      "forklift": 2587,
+      "car": 1222
+    }
+  },
+  {
+    "id": 156,
+    "status": "Finished",
+    "endDate": "12/05/2020",
+    "result": {
+      "pedestrian": 4216,
+      "rider": 8225,
+      "truck": 7937,
+      "cyclist": 2074,
+      "forklift": 836,
+      "car": 8560
+    }
+  },
+  {
+    "id": 157,
+    "status": "Finished",
+    "endDate": "07/25/2020",
+    "result": {
+      "pedestrian": 6196,
+      "rider": 8222,
+      "truck": 106,
+      "cyclist": 1108,
+      "forklift": 3603,
+      "car": 3041
+    }
+  },
+  {
+    "id": 158,
+    "status": "Finished",
+    "endDate": "04/16/2020",
+    "result": {
+      "pedestrian": 4099,
+      "rider": 4679,
+      "truck": 8031,
+      "cyclist": 5702,
+      "forklift": 927,
+      "car": 8091
+    }
+  },
+  {
+    "id": 159,
+    "status": "Finished",
+    "endDate": "11/20/2020",
+    "result": {
+      "pedestrian": 4887,
+      "rider": 1755,
+      "truck": 3410,
+      "cyclist": 4510,
+      "forklift": 2308,
+      "car": 341
+    }
+  },
+  {
+    "id": 160,
+    "status": "Finished",
+    "endDate": "02/08/2020",
+    "result": {
+      "pedestrian": 3911,
+      "rider": 5415,
+      "truck": 6898,
+      "cyclist": 738,
+      "forklift": 5697,
+      "car": 3559
+    }
+  },
+  {
+    "id": 161,
+    "status": "Finished",
+    "endDate": "03/01/2020",
+    "result": {
+      "pedestrian": 8917,
+      "rider": 7497,
+      "truck": 2121,
+      "cyclist": 8397,
+      "forklift": 3201,
+      "car": 1193
+    }
+  },
+  {
+    "id": 162,
+    "status": "Finished",
+    "endDate": "03/01/2021",
+    "result": {
+      "pedestrian": 3941,
+      "rider": 5019,
+      "truck": 1057,
+      "cyclist": 6323,
+      "forklift": 5649,
+      "car": 5793
+    }
+  },
+  {
+    "id": 163,
+    "status": "In-Progress",
+    "endDate": "07/04/2020"
+  },
+  {
+    "id": 164,
+    "status": "In-Progress",
+    "endDate": "03/08/2020"
+  },
+  {
+    "id": 165,
+    "status": "Ready",
+    "endDate": "12/05/2020"
+  },
+  {
+    "id": 166,
+    "status": "In-Progress",
+    "endDate": "10/02/2021"
+  },
+  {
+    "id": 167,
+    "status": "In-Progress",
+    "endDate": "09/02/2021"
+  },
+  {
+    "id": 168,
+    "status": "Finished",
+    "endDate": "02/04/2020",
+    "result": {
+      "pedestrian": 9142,
+      "rider": 5418,
+      "truck": 4728,
+      "cyclist": 2987,
+      "forklift": 2062,
+      "car": 7694
+    }
+  },
+  {
+    "id": 169,
+    "status": "Ready",
+    "endDate": "07/01/2021"
+  },
+  {
+    "id": 170,
+    "status": "Finished",
+    "endDate": "02/15/2021",
+    "result": {
+      "pedestrian": 4941,
+      "rider": 159,
+      "truck": 6450,
+      "cyclist": 9148,
+      "forklift": 1387,
+      "car": 6184
+    }
+  },
+  {
+    "id": 171,
+    "status": "Ready",
+    "endDate": "06/04/2021"
+  },
+  {
+    "id": 172,
+    "status": "In-Progress",
+    "endDate": "11/30/2021"
+  },
+  {
+    "id": 173,
+    "status": "Finished",
+    "endDate": "02/02/2021",
+    "result": {
+      "pedestrian": 723,
+      "rider": 4241,
+      "truck": 9718,
+      "cyclist": 6430,
+      "forklift": 3987,
+      "car": 4341
+    }
+  },
+  {
+    "id": 174,
+    "status": "Ready",
+    "endDate": "01/08/2021"
+  },
+  {
+    "id": 175,
+    "status": "Finished",
+    "endDate": "03/31/2021",
+    "result": {
+      "pedestrian": 7632,
+      "rider": 9525,
+      "truck": 5796,
+      "cyclist": 4613,
+      "forklift": 3014,
+      "car": 4964
+    }
+  },
+  {
+    "id": 176,
+    "status": "Finished",
+    "endDate": "06/01/2021",
+    "result": {
+      "pedestrian": 468,
+      "rider": 6224,
+      "truck": 2060,
+      "cyclist": 5356,
+      "forklift": 8618,
+      "car": 1493
+    }
+  },
+  {
+    "id": 177,
+    "status": "In-Progress",
+    "endDate": "06/19/2021"
+  },
+  {
+    "id": 178,
+    "status": "Ready",
+    "endDate": "09/21/2021"
+  },
+  {
+    "id": 179,
+    "status": "Finished",
+    "endDate": "02/23/2021",
+    "result": {
+      "pedestrian": 9476,
+      "rider": 8829,
+      "truck": 9078,
+      "cyclist": 3630,
+      "forklift": 7800,
+      "car": 6512
+    }
+  },
+  {
+    "id": 180,
+    "status": "Ready",
+    "endDate": "08/10/2021"
+  },
+  {
+    "id": 181,
+    "status": "In-Progress",
+    "endDate": "11/23/2020"
+  },
+  {
+    "id": 182,
+    "status": "In-Progress",
+    "endDate": "11/10/2021"
+  },
+  {
+    "id": 183,
+    "status": "Ready",
+    "endDate": "09/10/2021"
+  },
+  {
+    "id": 184,
+    "status": "In-Progress",
+    "endDate": "05/12/2020"
+  },
+  {
+    "id": 185,
+    "status": "In-Progress",
+    "endDate": "04/08/2021"
+  },
+  {
+    "id": 186,
+    "status": "In-Progress",
+    "endDate": "11/30/2020"
+  },
+  {
+    "id": 187,
+    "status": "Finished",
+    "endDate": "05/15/2021",
+    "result": {
+      "pedestrian": 5592,
+      "rider": 3457,
+      "truck": 4366,
+      "cyclist": 5705,
+      "forklift": 440,
+      "car": 1426
+    }
+  },
+  {
+    "id": 188,
+    "status": "Finished",
+    "endDate": "07/02/2021",
+    "result": {
+      "pedestrian": 1070,
+      "rider": 717,
+      "truck": 8176,
+      "cyclist": 7486,
+      "forklift": 2137,
+      "car": 8157
+    }
+  },
+  {
+    "id": 189,
+    "status": "Ready",
+    "endDate": "01/05/2020"
+  },
+  {
+    "id": 190,
+    "status": "In-Progress",
+    "endDate": "08/26/2020"
+  },
+  {
+    "id": 191,
+    "status": "Ready",
+    "endDate": "06/21/2020"
+  },
+  {
+    "id": 192,
+    "status": "Finished",
+    "endDate": "08/18/2020",
+    "result": {
+      "pedestrian": 2237,
+      "rider": 3150,
+      "truck": 5056,
+      "cyclist": 3112,
+      "forklift": 6581,
+      "car": 6633
+    }
+  },
+  {
+    "id": 193,
+    "status": "In-Progress",
+    "endDate": "05/29/2020"
+  },
+  {
+    "id": 194,
+    "status": "Finished",
+    "endDate": "11/13/2021",
+    "result": {
+      "pedestrian": 231,
+      "rider": 8948,
+      "truck": 224,
+      "cyclist": 9403,
+      "forklift": 3983,
+      "car": 4363
+    }
+  },
+  {
+    "id": 195,
+    "status": "Ready",
+    "endDate": "09/29/2021"
+  },
+  {
+    "id": 196,
+    "status": "Finished",
+    "endDate": "09/01/2021",
+    "result": {
+      "pedestrian": 8140,
+      "rider": 2081,
+      "truck": 791,
+      "cyclist": 3738,
+      "forklift": 2740,
+      "car": 690
+    }
+  },
+  {
+    "id": 197,
+    "status": "Ready",
+    "endDate": "11/20/2021"
+  },
+  {
+    "id": 198,
+    "status": "Finished",
+    "endDate": "11/10/2020",
+    "result": {
+      "pedestrian": 5708,
+      "rider": 5115,
+      "truck": 9409,
+      "cyclist": 8826,
+      "forklift": 9535,
+      "car": 628
+    }
+  },
+  {
+    "id": 199,
+    "status": "Ready",
+    "endDate": "03/27/2020"
+  },
+  {
+    "id": 200,
+    "status": "Ready",
+    "endDate": "07/22/2021"
+  },
+  {
+    "id": 201,
+    "status": "Finished",
+    "endDate": "06/17/2020",
+    "result": {
+      "pedestrian": 7398,
+      "rider": 159,
+      "truck": 9543,
+      "cyclist": 2398,
+      "forklift": 4132,
+      "car": 3909
+    }
+  },
+  {
+    "id": 202,
+    "status": "Ready",
+    "endDate": "06/12/2020"
+  },
+  {
+    "id": 203,
+    "status": "Finished",
+    "endDate": "02/03/2021",
+    "result": {
+      "pedestrian": 212,
+      "rider": 723,
+      "truck": 4477,
+      "cyclist": 9869,
+      "forklift": 9848,
+      "car": 9612
+    }
+  },
+  {
+    "id": 204,
+    "status": "Finished",
+    "endDate": "04/16/2020",
+    "result": {
+      "pedestrian": 1276,
+      "rider": 7761,
+      "truck": 8327,
+      "cyclist": 5878,
+      "forklift": 8491,
+      "car": 7591
+    }
+  },
+  {
+    "id": 205,
+    "status": "Finished",
+    "endDate": "04/20/2021",
+    "result": {
+      "pedestrian": 3813,
+      "rider": 4554,
+      "truck": 1779,
+      "cyclist": 3342,
+      "forklift": 9983,
+      "car": 3171
+    }
+  },
+  {
+    "id": 206,
+    "status": "In-Progress",
+    "endDate": "02/26/2021"
+  },
+  {
+    "id": 207,
+    "status": "Ready",
+    "endDate": "05/27/2020"
+  },
+  {
+    "id": 208,
+    "status": "Ready",
+    "endDate": "05/22/2021"
+  },
+  {
+    "id": 209,
+    "status": "Ready",
+    "endDate": "08/20/2020"
+  },
+  {
+    "id": 210,
+    "status": "Finished",
+    "endDate": "12/14/2021",
+    "result": {
+      "pedestrian": 3608,
+      "rider": 7833,
+      "truck": 5121,
+      "cyclist": 2408,
+      "forklift": 1910,
+      "car": 9282
+    }
+  },
+  {
+    "id": 211,
+    "status": "Ready",
+    "endDate": "01/21/2021"
+  },
+  {
+    "id": 212,
+    "status": "Ready",
+    "endDate": "08/21/2021"
+  },
+  {
+    "id": 213,
+    "status": "Ready",
+    "endDate": "02/03/2021"
+  },
+  {
+    "id": 214,
+    "status": "In-Progress",
+    "endDate": "05/11/2020"
+  },
+  {
+    "id": 215,
+    "status": "Ready",
+    "endDate": "07/18/2020"
+  },
+  {
+    "id": 216,
+    "status": "Finished",
+    "endDate": "12/30/2020",
+    "result": {
+      "pedestrian": 5771,
+      "rider": 3918,
+      "truck": 7720,
+      "cyclist": 4840,
+      "forklift": 8708,
+      "car": 5994
+    }
+  },
+  {
+    "id": 217,
+    "status": "In-Progress",
+    "endDate": "04/25/2020"
+  },
+  {
+    "id": 218,
+    "status": "Ready",
+    "endDate": "12/11/2020"
+  },
+  {
+    "id": 219,
+    "status": "In-Progress",
+    "endDate": "07/28/2020"
+  },
+  {
+    "id": 220,
+    "status": "Ready",
+    "endDate": "10/22/2020"
+  },
+  {
+    "id": 221,
+    "status": "Ready",
+    "endDate": "04/04/2021"
+  },
+  {
+    "id": 222,
+    "status": "Ready",
+    "endDate": "09/01/2021"
+  },
+  {
+    "id": 223,
+    "status": "Ready",
+    "endDate": "04/06/2021"
+  },
+  {
+    "id": 224,
+    "status": "Finished",
+    "endDate": "02/18/2020",
+    "result": {
+      "pedestrian": 5884,
+      "rider": 3397,
+      "truck": 8165,
+      "cyclist": 7180,
+      "forklift": 4052,
+      "car": 3807
+    }
+  },
+  {
+    "id": 225,
+    "status": "Ready",
+    "endDate": "11/13/2020"
+  },
+  {
+    "id": 226,
+    "status": "Ready",
+    "endDate": "10/04/2020"
+  },
+  {
+    "id": 227,
+    "status": "In-Progress",
+    "endDate": "12/29/2021"
+  },
+  {
+    "id": 228,
+    "status": "In-Progress",
+    "endDate": "12/17/2020"
+  },
+  {
+    "id": 229,
+    "status": "Finished",
+    "endDate": "11/11/2021",
+    "result": {
+      "pedestrian": 5401,
+      "rider": 8121,
+      "truck": 8243,
+      "cyclist": 3892,
+      "forklift": 1069,
+      "car": 6411
+    }
+  },
+  {
+    "id": 230,
+    "status": "Finished",
+    "endDate": "12/23/2021",
+    "result": {
+      "pedestrian": 4763,
+      "rider": 5985,
+      "truck": 9117,
+      "cyclist": 4502,
+      "forklift": 8200,
+      "car": 1758
+    }
+  },
+  {
+    "id": 231,
+    "status": "Ready",
+    "endDate": "03/23/2020"
+  },
+  {
+    "id": 232,
+    "status": "Finished",
+    "endDate": "08/21/2021",
+    "result": {
+      "pedestrian": 653,
+      "rider": 3456,
+      "truck": 4615,
+      "cyclist": 5875,
+      "forklift": 4175,
+      "car": 5919
+    }
+  },
+  {
+    "id": 233,
+    "status": "Finished",
+    "endDate": "11/13/2020",
+    "result": {
+      "pedestrian": 3888,
+      "rider": 4449,
+      "truck": 5131,
+      "cyclist": 1344,
+      "forklift": 9766,
+      "car": 2181
+    }
+  },
+  {
+    "id": 234,
+    "status": "Ready",
+    "endDate": "01/10/2021"
+  },
+  {
+    "id": 235,
+    "status": "Ready",
+    "endDate": "12/09/2020"
+  },
+  {
+    "id": 236,
+    "status": "Ready",
+    "endDate": "10/26/2021"
+  },
+  {
+    "id": 237,
+    "status": "In-Progress",
+    "endDate": "12/22/2020"
+  },
+  {
+    "id": 238,
+    "status": "In-Progress",
+    "endDate": "10/15/2021"
+  },
+  {
+    "id": 239,
+    "status": "Finished",
+    "endDate": "05/11/2020",
+    "result": {
+      "pedestrian": 337,
+      "rider": 4509,
+      "truck": 9684,
+      "cyclist": 3744,
+      "forklift": 8345,
+      "car": 7046
+    }
+  },
+  {
+    "id": 240,
+    "status": "Ready",
+    "endDate": "02/15/2020"
+  },
+  {
+    "id": 241,
+    "status": "Ready",
+    "endDate": "04/21/2020"
+  },
+  {
+    "id": 242,
+    "status": "In-Progress",
+    "endDate": "06/18/2021"
+  },
+  {
+    "id": 243,
+    "status": "Finished",
+    "endDate": "11/25/2020",
+    "result": {
+      "pedestrian": 4452,
+      "rider": 9123,
+      "truck": 8749,
+      "cyclist": 373,
+      "forklift": 4626,
+      "car": 8442
+    }
+  },
+  {
+    "id": 244,
+    "status": "Finished",
+    "endDate": "09/27/2020",
+    "result": {
+      "pedestrian": 3502,
+      "rider": 8361,
+      "truck": 1985,
+      "cyclist": 2373,
+      "forklift": 524,
+      "car": 7809
+    }
+  },
+  {
+    "id": 245,
+    "status": "In-Progress",
+    "endDate": "12/09/2020"
+  },
+  {
+    "id": 246,
+    "status": "Finished",
+    "endDate": "08/20/2021",
+    "result": {
+      "pedestrian": 9908,
+      "rider": 4492,
+      "truck": 9057,
+      "cyclist": 6076,
+      "forklift": 1330,
+      "car": 8436
+    }
+  },
+  {
+    "id": 247,
+    "status": "Ready",
+    "endDate": "06/21/2021"
+  },
+  {
+    "id": 248,
+    "status": "In-Progress",
+    "endDate": "02/03/2020"
+  },
+  {
+    "id": 249,
+    "status": "In-Progress",
+    "endDate": "02/26/2021"
+  },
+  {
+    "id": 250,
+    "status": "Ready",
+    "endDate": "09/16/2020"
+  },
+  {
+    "id": 251,
+    "status": "In-Progress",
+    "endDate": "10/29/2021"
+  },
+  {
+    "id": 252,
+    "status": "Ready",
+    "endDate": "04/25/2020"
+  },
+  {
+    "id": 253,
+    "status": "Finished",
+    "endDate": "04/16/2021",
+    "result": {
+      "pedestrian": 3222,
+      "rider": 3265,
+      "truck": 2120,
+      "cyclist": 996,
+      "forklift": 8704,
+      "car": 7164
+    }
+  },
+  {
+    "id": 254,
+    "status": "Ready",
+    "endDate": "06/03/2020"
+  },
+  {
+    "id": 255,
+    "status": "Finished",
+    "endDate": "06/01/2020",
+    "result": {
+      "pedestrian": 1946,
+      "rider": 6356,
+      "truck": 9988,
+      "cyclist": 4649,
+      "forklift": 9773,
+      "car": 7889
+    }
+  },
+  {
+    "id": 256,
+    "status": "Finished",
+    "endDate": "06/21/2020",
+    "result": {
+      "pedestrian": 5827,
+      "rider": 165,
+      "truck": 9987,
+      "cyclist": 1022,
+      "forklift": 5830,
+      "car": 5763
+    }
+  },
+  {
+    "id": 257,
+    "status": "Ready",
+    "endDate": "11/28/2020"
+  },
+  {
+    "id": 258,
+    "status": "Ready",
+    "endDate": "06/06/2020"
+  },
+  {
+    "id": 259,
+    "status": "Ready",
+    "endDate": "05/07/2020"
+  },
+  {
+    "id": 260,
+    "status": "Finished",
+    "endDate": "04/27/2021",
+    "result": {
+      "pedestrian": 6158,
+      "rider": 5452,
+      "truck": 8480,
+      "cyclist": 8814,
+      "forklift": 4645,
+      "car": 633
+    }
+  },
+  {
+    "id": 261,
+    "status": "Ready",
+    "endDate": "05/26/2020"
+  },
+  {
+    "id": 262,
+    "status": "Finished",
+    "endDate": "08/03/2020",
+    "result": {
+      "pedestrian": 328,
+      "rider": 5128,
+      "truck": 9799,
+      "cyclist": 8662,
+      "forklift": 3366,
+      "car": 2706
+    }
+  },
+  {
+    "id": 263,
+    "status": "Finished",
+    "endDate": "09/29/2020",
+    "result": {
+      "pedestrian": 1138,
+      "rider": 8960,
+      "truck": 1426,
+      "cyclist": 1303,
+      "forklift": 1837,
+      "car": 2833
+    }
+  },
+  {
+    "id": 264,
+    "status": "In-Progress",
+    "endDate": "06/11/2020"
+  },
+  {
+    "id": 265,
+    "status": "Ready",
+    "endDate": "10/12/2021"
+  },
+  {
+    "id": 266,
+    "status": "Finished",
+    "endDate": "02/03/2021",
+    "result": {
+      "pedestrian": 939,
+      "rider": 7508,
+      "truck": 728,
+      "cyclist": 1978,
+      "forklift": 710,
+      "car": 2423
+    }
+  },
+  {
+    "id": 267,
+    "status": "Finished",
+    "endDate": "02/18/2021",
+    "result": {
+      "pedestrian": 5023,
+      "rider": 9364,
+      "truck": 1927,
+      "cyclist": 3654,
+      "forklift": 3949,
+      "car": 746
+    }
+  },
+  {
+    "id": 268,
+    "status": "In-Progress",
+    "endDate": "10/01/2021"
+  },
+  {
+    "id": 269,
+    "status": "Ready",
+    "endDate": "08/05/2021"
+  },
+  {
+    "id": 270,
+    "status": "Ready",
+    "endDate": "05/24/2020"
+  },
+  {
+    "id": 271,
+    "status": "In-Progress",
+    "endDate": "02/08/2021"
+  },
+  {
+    "id": 272,
+    "status": "Finished",
+    "endDate": "05/02/2020",
+    "result": {
+      "pedestrian": 6800,
+      "rider": 5594,
+      "truck": 3123,
+      "cyclist": 9336,
+      "forklift": 8693,
+      "car": 8097
+    }
+  },
+  {
+    "id": 273,
+    "status": "Ready",
+    "endDate": "02/15/2021"
+  },
+  {
+    "id": 274,
+    "status": "Ready",
+    "endDate": "10/31/2021"
+  },
+  {
+    "id": 275,
+    "status": "Finished",
+    "endDate": "10/19/2020",
+    "result": {
+      "pedestrian": 7098,
+      "rider": 5046,
+      "truck": 5761,
+      "cyclist": 9052,
+      "forklift": 2026,
+      "car": 4113
+    }
+  },
+  {
+    "id": 276,
+    "status": "Finished",
+    "endDate": "05/09/2020",
+    "result": {
+      "pedestrian": 483,
+      "rider": 371,
+      "truck": 4198,
+      "cyclist": 1823,
+      "forklift": 7389,
+      "car": 7496
+    }
+  },
+  {
+    "id": 277,
+    "status": "Ready",
+    "endDate": "12/30/2021"
+  },
+  {
+    "id": 278,
+    "status": "In-Progress",
+    "endDate": "06/03/2021"
+  },
+  {
+    "id": 279,
+    "status": "In-Progress",
+    "endDate": "06/24/2021"
+  },
+  {
+    "id": 280,
+    "status": "In-Progress",
+    "endDate": "12/26/2020"
+  },
+  {
+    "id": 281,
+    "status": "Ready",
+    "endDate": "03/04/2020"
+  },
+  {
+    "id": 282,
+    "status": "Finished",
+    "endDate": "11/07/2021",
+    "result": {
+      "pedestrian": 9674,
+      "rider": 549,
+      "truck": 1195,
+      "cyclist": 6497,
+      "forklift": 2152,
+      "car": 7231
+    }
+  },
+  {
+    "id": 283,
+    "status": "In-Progress",
+    "endDate": "07/24/2020"
+  },
+  {
+    "id": 284,
+    "status": "Finished",
+    "endDate": "05/17/2020",
+    "result": {
+      "pedestrian": 9001,
+      "rider": 3399,
+      "truck": 6857,
+      "cyclist": 788,
+      "forklift": 785,
+      "car": 8975
+    }
+  },
+  {
+    "id": 285,
+    "status": "Ready",
+    "endDate": "08/25/2021"
+  },
+  {
+    "id": 286,
+    "status": "In-Progress",
+    "endDate": "01/13/2021"
+  },
+  {
+    "id": 287,
+    "status": "Ready",
+    "endDate": "08/25/2021"
+  },
+  {
+    "id": 288,
+    "status": "Ready",
+    "endDate": "08/01/2021"
+  },
+  {
+    "id": 289,
+    "status": "Finished",
+    "endDate": "06/07/2021",
+    "result": {
+      "pedestrian": 4206,
+      "rider": 9976,
+      "truck": 1428,
+      "cyclist": 2485,
+      "forklift": 3651,
+      "car": 5117
+    }
+  },
+  {
+    "id": 290,
+    "status": "Ready",
+    "endDate": "10/12/2021"
+  },
+  {
+    "id": 291,
+    "status": "Ready",
+    "endDate": "11/17/2020"
+  },
+  {
+    "id": 292,
+    "status": "Ready",
+    "endDate": "04/05/2020"
+  },
+  {
+    "id": 293,
+    "status": "Finished",
+    "endDate": "09/12/2020",
+    "result": {
+      "pedestrian": 1320,
+      "rider": 1983,
+      "truck": 6996,
+      "cyclist": 8266,
+      "forklift": 4144,
+      "car": 1431
+    }
+  },
+  {
+    "id": 294,
+    "status": "Ready",
+    "endDate": "06/12/2020"
+  },
+  {
+    "id": 295,
+    "status": "Finished",
+    "endDate": "03/20/2021",
+    "result": {
+      "pedestrian": 1295,
+      "rider": 8148,
+      "truck": 1538,
+      "cyclist": 3638,
+      "forklift": 3936,
+      "car": 7491
+    }
+  },
+  {
+    "id": 296,
+    "status": "Ready",
+    "endDate": "06/05/2021"
+  },
+  {
+    "id": 297,
+    "status": "Ready",
+    "endDate": "02/01/2020"
+  },
+  {
+    "id": 298,
+    "status": "Finished",
+    "endDate": "03/04/2020",
+    "result": {
+      "pedestrian": 7446,
+      "rider": 8232,
+      "truck": 2354,
+      "cyclist": 7318,
+      "forklift": 6134,
+      "car": 3089
+    }
+  },
+  {
+    "id": 299,
+    "status": "Ready",
+    "endDate": "04/08/2020"
+  },
+  {
+    "id": 300,
+    "status": "Finished",
+    "endDate": "11/17/2021",
+    "result": {
+      "pedestrian": 8315,
+      "rider": 6314,
+      "truck": 5605,
+      "cyclist": 792,
+      "forklift": 7141,
+      "car": 3517
+    }
+  },
+  {
+    "id": 301,
+    "status": "Ready",
+    "endDate": "01/23/2021"
+  },
+  {
+    "id": 302,
+    "status": "Ready",
+    "endDate": "12/22/2020"
+  },
+  {
+    "id": 303,
+    "status": "Finished",
+    "endDate": "06/12/2021",
+    "result": {
+      "pedestrian": 9894,
+      "rider": 9086,
+      "truck": 3787,
+      "cyclist": 6620,
+      "forklift": 2879,
+      "car": 7881
+    }
+  },
+  {
+    "id": 304,
+    "status": "Ready",
+    "endDate": "04/14/2020"
+  },
+  {
+    "id": 305,
+    "status": "In-Progress",
+    "endDate": "03/20/2021"
+  },
+  {
+    "id": 306,
+    "status": "Finished",
+    "endDate": "08/24/2020",
+    "result": {
+      "pedestrian": 1118,
+      "rider": 5555,
+      "truck": 3798,
+      "cyclist": 4513,
+      "forklift": 9811,
+      "car": 7776
+    }
+  },
+  {
+    "id": 307,
+    "status": "Finished",
+    "endDate": "12/02/2020",
+    "result": {
+      "pedestrian": 7383,
+      "rider": 1817,
+      "truck": 4779,
+      "cyclist": 3399,
+      "forklift": 5817,
+      "car": 9185
+    }
+  },
+  {
+    "id": 308,
+    "status": "Ready",
+    "endDate": "06/27/2021"
+  },
+  {
+    "id": 309,
+    "status": "Ready",
+    "endDate": "11/01/2021"
+  },
+  {
+    "id": 310,
+    "status": "In-Progress",
+    "endDate": "11/24/2021"
+  },
+  {
+    "id": 311,
+    "status": "Ready",
+    "endDate": "08/29/2021"
+  },
+  {
+    "id": 312,
+    "status": "Finished",
+    "endDate": "10/27/2020",
+    "result": {
+      "pedestrian": 5574,
+      "rider": 517,
+      "truck": 8101,
+      "cyclist": 7554,
+      "forklift": 6970,
+      "car": 3677
+    }
+  },
+  {
+    "id": 313,
+    "status": "Finished",
+    "endDate": "03/10/2021",
+    "result": {
+      "pedestrian": 5834,
+      "rider": 8777,
+      "truck": 5798,
+      "cyclist": 5504,
+      "forklift": 7629,
+      "car": 8585
+    }
+  },
+  {
+    "id": 314,
+    "status": "Finished",
+    "endDate": "08/16/2021",
+    "result": {
+      "pedestrian": 139,
+      "rider": 1511,
+      "truck": 6331,
+      "cyclist": 6609,
+      "forklift": 5499,
+      "car": 2181
+    }
+  },
+  {
+    "id": 315,
+    "status": "Ready",
+    "endDate": "09/25/2021"
+  },
+  {
+    "id": 316,
+    "status": "Finished",
+    "endDate": "08/09/2020",
+    "result": {
+      "pedestrian": 7161,
+      "rider": 3123,
+      "truck": 8555,
+      "cyclist": 6471,
+      "forklift": 385,
+      "car": 2112
+    }
+  },
+  {
+    "id": 317,
+    "status": "In-Progress",
+    "endDate": "03/02/2020"
+  },
+  {
+    "id": 318,
+    "status": "In-Progress",
+    "endDate": "08/31/2020"
+  },
+  {
+    "id": 319,
+    "status": "Ready",
+    "endDate": "09/20/2020"
+  },
+  {
+    "id": 320,
+    "status": "In-Progress",
+    "endDate": "12/13/2020"
+  },
+  {
+    "id": 321,
+    "status": "Ready",
+    "endDate": "08/09/2020"
+  },
+  {
+    "id": 322,
+    "status": "Ready",
+    "endDate": "09/09/2021"
+  },
+  {
+    "id": 323,
+    "status": "Ready",
+    "endDate": "01/14/2021"
+  },
+  {
+    "id": 324,
+    "status": "Ready",
+    "endDate": "10/19/2021"
+  },
+  {
+    "id": 325,
+    "status": "In-Progress",
+    "endDate": "04/23/2020"
+  },
+  {
+    "id": 326,
+    "status": "In-Progress",
+    "endDate": "11/16/2020"
+  },
+  {
+    "id": 327,
+    "status": "Ready",
+    "endDate": "05/01/2021"
+  },
+  {
+    "id": 328,
+    "status": "Finished",
+    "endDate": "12/18/2020",
+    "result": {
+      "pedestrian": 4494,
+      "rider": 9777,
+      "truck": 3734,
+      "cyclist": 7951,
+      "forklift": 8119,
+      "car": 6682
+    }
+  },
+  {
+    "id": 329,
+    "status": "In-Progress",
+    "endDate": "05/05/2020"
+  },
+  {
+    "id": 330,
+    "status": "In-Progress",
+    "endDate": "11/05/2020"
+  },
+  {
+    "id": 331,
+    "status": "Ready",
+    "endDate": "10/09/2021"
+  },
+  {
+    "id": 332,
+    "status": "Ready",
+    "endDate": "06/22/2021"
+  },
+  {
+    "id": 333,
+    "status": "In-Progress",
+    "endDate": "06/30/2021"
+  },
+  {
+    "id": 334,
+    "status": "In-Progress",
+    "endDate": "11/13/2021"
+  },
+  {
+    "id": 335,
+    "status": "Finished",
+    "endDate": "05/25/2021",
+    "result": {
+      "pedestrian": 6107,
+      "rider": 9830,
+      "truck": 3904,
+      "cyclist": 3309,
+      "forklift": 3496,
+      "car": 7937
+    }
+  },
+  {
+    "id": 336,
+    "status": "Finished",
+    "endDate": "01/03/2022",
+    "result": {
+      "pedestrian": 2177,
+      "rider": 6561,
+      "truck": 4910,
+      "cyclist": 4179,
+      "forklift": 9745,
+      "car": 3979
+    }
+  },
+  {
+    "id": 337,
+    "status": "Ready",
+    "endDate": "08/22/2021"
+  },
+  {
+    "id": 338,
+    "status": "Finished",
+    "endDate": "05/19/2021",
+    "result": {
+      "pedestrian": 200,
+      "rider": 6505,
+      "truck": 6992,
+      "cyclist": 3451,
+      "forklift": 8012,
+      "car": 6276
+    }
+  },
+  {
+    "id": 339,
+    "status": "In-Progress",
+    "endDate": "12/17/2020"
+  },
+  {
+    "id": 340,
+    "status": "Finished",
+    "endDate": "03/30/2021",
+    "result": {
+      "pedestrian": 1048,
+      "rider": 3545,
+      "truck": 4618,
+      "cyclist": 868,
+      "forklift": 5202,
+      "car": 4214
+    }
+  },
+  {
+    "id": 341,
+    "status": "In-Progress",
+    "endDate": "01/21/2020"
+  },
+  {
+    "id": 342,
+    "status": "Ready",
+    "endDate": "08/06/2021"
+  },
+  {
+    "id": 343,
+    "status": "In-Progress",
+    "endDate": "08/23/2020"
+  },
+  {
+    "id": 344,
+    "status": "Finished",
+    "endDate": "04/16/2021",
+    "result": {
+      "pedestrian": 2786,
+      "rider": 3858,
+      "truck": 633,
+      "cyclist": 8197,
+      "forklift": 5382,
+      "car": 3778
+    }
+  },
+  {
+    "id": 345,
+    "status": "Finished",
+    "endDate": "05/14/2020",
+    "result": {
+      "pedestrian": 1418,
+      "rider": 7719,
+      "truck": 8819,
+      "cyclist": 235,
+      "forklift": 4086,
+      "car": 1303
+    }
+  },
+  {
+    "id": 346,
+    "status": "In-Progress",
+    "endDate": "03/11/2020"
+  },
+  {
+    "id": 347,
+    "status": "Ready",
+    "endDate": "05/30/2020"
+  },
+  {
+    "id": 348,
+    "status": "In-Progress",
+    "endDate": "11/15/2020"
+  },
+  {
+    "id": 349,
+    "status": "Finished",
+    "endDate": "07/12/2021",
+    "result": {
+      "pedestrian": 2490,
+      "rider": 7916,
+      "truck": 7725,
+      "cyclist": 5730,
+      "forklift": 342,
+      "car": 2019
+    }
+  },
+  {
+    "id": 350,
+    "status": "Finished",
+    "endDate": "04/13/2021",
+    "result": {
+      "pedestrian": 7804,
+      "rider": 1123,
+      "truck": 31,
+      "cyclist": 8654,
+      "forklift": 564,
+      "car": 538
+    }
+  },
+  {
+    "id": 351,
+    "status": "In-Progress",
+    "endDate": "11/03/2021"
+  },
+  {
+    "id": 352,
+    "status": "Finished",
+    "endDate": "05/23/2021",
+    "result": {
+      "pedestrian": 6166,
+      "rider": 8847,
+      "truck": 7305,
+      "cyclist": 146,
+      "forklift": 8951,
+      "car": 9615
+    }
+  },
+  {
+    "id": 353,
+    "status": "Finished",
+    "endDate": "01/25/2020",
+    "result": {
+      "pedestrian": 1915,
+      "rider": 8212,
+      "truck": 8161,
+      "cyclist": 1542,
+      "forklift": 3324,
+      "car": 1967
+    }
+  },
+  {
+    "id": 354,
+    "status": "Finished",
+    "endDate": "06/02/2020",
+    "result": {
+      "pedestrian": 5578,
+      "rider": 8019,
+      "truck": 8329,
+      "cyclist": 9865,
+      "forklift": 2778,
+      "car": 1265
+    }
+  },
+  {
+    "id": 355,
+    "status": "Ready",
+    "endDate": "10/26/2021"
+  },
+  {
+    "id": 356,
+    "status": "Finished",
+    "endDate": "01/06/2020",
+    "result": {
+      "pedestrian": 8467,
+      "rider": 4418,
+      "truck": 8267,
+      "cyclist": 8872,
+      "forklift": 8109,
+      "car": 6156
+    }
+  },
+  {
+    "id": 357,
+    "status": "In-Progress",
+    "endDate": "10/25/2021"
+  },
+  {
+    "id": 358,
+    "status": "In-Progress",
+    "endDate": "03/06/2021"
+  },
+  {
+    "id": 359,
+    "status": "In-Progress",
+    "endDate": "02/28/2020"
+  },
+  {
+    "id": 360,
+    "status": "In-Progress",
+    "endDate": "06/13/2021"
+  },
+  {
+    "id": 361,
+    "status": "Ready",
+    "endDate": "11/24/2021"
+  },
+  {
+    "id": 362,
+    "status": "Ready",
+    "endDate": "04/02/2021"
+  },
+  {
+    "id": 363,
+    "status": "Ready",
+    "endDate": "04/18/2021"
+  },
+  {
+    "id": 364,
+    "status": "Finished",
+    "endDate": "12/08/2020",
+    "result": {
+      "pedestrian": 5055,
+      "rider": 1191,
+      "truck": 8896,
+      "cyclist": 9181,
+      "forklift": 9128,
+      "car": 3934
+    }
+  },
+  {
+    "id": 365,
+    "status": "Ready",
+    "endDate": "06/28/2021"
+  },
+  {
+    "id": 366,
+    "status": "Ready",
+    "endDate": "12/16/2021"
+  },
+  {
+    "id": 367,
+    "status": "In-Progress",
+    "endDate": "11/29/2021"
+  },
+  {
+    "id": 368,
+    "status": "Ready",
+    "endDate": "01/19/2020"
+  },
+  {
+    "id": 369,
+    "status": "Ready",
+    "endDate": "05/07/2021"
+  },
+  {
+    "id": 370,
+    "status": "Finished",
+    "endDate": "10/25/2021",
+    "result": {
+      "pedestrian": 1444,
+      "rider": 5164,
+      "truck": 4349,
+      "cyclist": 6073,
+      "forklift": 7137,
+      "car": 5878
+    }
+  },
+  {
+    "id": 371,
+    "status": "In-Progress",
+    "endDate": "10/30/2021"
+  },
+  {
+    "id": 372,
+    "status": "In-Progress",
+    "endDate": "04/20/2020"
+  },
+  {
+    "id": 373,
+    "status": "Finished",
+    "endDate": "04/12/2021",
+    "result": {
+      "pedestrian": 3937,
+      "rider": 7074,
+      "truck": 155,
+      "cyclist": 9194,
+      "forklift": 7438,
+      "car": 8254
+    }
+  },
+  {
+    "id": 374,
+    "status": "In-Progress",
+    "endDate": "03/30/2020"
+  },
+  {
+    "id": 375,
+    "status": "Finished",
+    "endDate": "09/28/2020",
+    "result": {
+      "pedestrian": 4388,
+      "rider": 8491,
+      "truck": 9252,
+      "cyclist": 1011,
+      "forklift": 8686,
+      "car": 9975
+    }
+  },
+  {
+    "id": 376,
+    "status": "In-Progress",
+    "endDate": "10/12/2020"
+  },
+  {
+    "id": 377,
+    "status": "Ready",
+    "endDate": "09/20/2021"
+  },
+  {
+    "id": 378,
+    "status": "In-Progress",
+    "endDate": "02/22/2020"
+  },
+  {
+    "id": 379,
+    "status": "In-Progress",
+    "endDate": "02/05/2021"
+  },
+  {
+    "id": 380,
+    "status": "Ready",
+    "endDate": "07/24/2020"
+  },
+  {
+    "id": 381,
+    "status": "In-Progress",
+    "endDate": "01/19/2021"
+  },
+  {
+    "id": 382,
+    "status": "In-Progress",
+    "endDate": "12/03/2021"
+  },
+  {
+    "id": 383,
+    "status": "In-Progress",
+    "endDate": "11/30/2021"
+  },
+  {
+    "id": 384,
+    "status": "In-Progress",
+    "endDate": "01/03/2021"
+  },
+  {
+    "id": 385,
+    "status": "Finished",
+    "endDate": "04/07/2021",
+    "result": {
+      "pedestrian": 2101,
+      "rider": 7174,
+      "truck": 7881,
+      "cyclist": 7373,
+      "forklift": 548,
+      "car": 1463
+    }
+  },
+  {
+    "id": 386,
+    "status": "Finished",
+    "endDate": "03/21/2021",
+    "result": {
+      "pedestrian": 5519,
+      "rider": 1638,
+      "truck": 3568,
+      "cyclist": 912,
+      "forklift": 8472,
+      "car": 8762
+    }
+  },
+  {
+    "id": 387,
+    "status": "Ready",
+    "endDate": "06/04/2020"
+  },
+  {
+    "id": 388,
+    "status": "In-Progress",
+    "endDate": "12/06/2021"
+  },
+  {
+    "id": 389,
+    "status": "Finished",
+    "endDate": "08/09/2020",
+    "result": {
+      "pedestrian": 3563,
+      "rider": 7909,
+      "truck": 6598,
+      "cyclist": 7751,
+      "forklift": 5891,
+      "car": 552
+    }
+  },
+  {
+    "id": 390,
+    "status": "Finished",
+    "endDate": "10/29/2020",
+    "result": {
+      "pedestrian": 5876,
+      "rider": 960,
+      "truck": 1225,
+      "cyclist": 1438,
+      "forklift": 6968,
+      "car": 2609
+    }
+  },
+  {
+    "id": 391,
+    "status": "Finished",
+    "endDate": "12/12/2020",
+    "result": {
+      "pedestrian": 6143,
+      "rider": 5640,
+      "truck": 4760,
+      "cyclist": 3816,
+      "forklift": 9451,
+      "car": 9014
+    }
+  },
+  {
+    "id": 392,
+    "status": "Finished",
+    "endDate": "11/05/2021",
+    "result": {
+      "pedestrian": 8949,
+      "rider": 7033,
+      "truck": 7385,
+      "cyclist": 2196,
+      "forklift": 7889,
+      "car": 168
+    }
+  },
+  {
+    "id": 393,
+    "status": "Finished",
+    "endDate": "04/12/2021",
+    "result": {
+      "pedestrian": 367,
+      "rider": 5831,
+      "truck": 2449,
+      "cyclist": 4230,
+      "forklift": 7685,
+      "car": 206
+    }
+  },
+  {
+    "id": 394,
+    "status": "In-Progress",
+    "endDate": "09/22/2021"
+  },
+  {
+    "id": 395,
+    "status": "In-Progress",
+    "endDate": "06/01/2021"
+  },
+  {
+    "id": 396,
+    "status": "In-Progress",
+    "endDate": "09/26/2020"
+  },
+  {
+    "id": 397,
+    "status": "Ready",
+    "endDate": "05/30/2021"
+  },
+  {
+    "id": 398,
+    "status": "Ready",
+    "endDate": "07/09/2020"
+  },
+  {
+    "id": 399,
+    "status": "Finished",
+    "endDate": "04/14/2021",
+    "result": {
+      "pedestrian": 5141,
+      "rider": 9373,
+      "truck": 4522,
+      "cyclist": 9017,
+      "forklift": 4356,
+      "car": 6250
+    }
+  },
+  {
+    "id": 400,
+    "status": "Finished",
+    "endDate": "05/08/2021",
+    "result": {
+      "pedestrian": 7912,
+      "rider": 3181,
+      "truck": 2402,
+      "cyclist": 7219,
+      "forklift": 4493,
+      "car": 8642
+    }
+  },
+  {
+    "id": 401,
+    "status": "In-Progress",
+    "endDate": "03/14/2020"
+  },
+  {
+    "id": 402,
+    "status": "Ready",
+    "endDate": "05/09/2020"
+  },
+  {
+    "id": 403,
+    "status": "Finished",
+    "endDate": "08/13/2020",
+    "result": {
+      "pedestrian": 3321,
+      "rider": 9500,
+      "truck": 7582,
+      "cyclist": 1161,
+      "forklift": 6654,
+      "car": 7932
+    }
+  },
+  {
+    "id": 404,
+    "status": "In-Progress",
+    "endDate": "10/29/2021"
+  },
+  {
+    "id": 405,
+    "status": "In-Progress",
+    "endDate": "09/19/2020"
+  },
+  {
+    "id": 406,
+    "status": "Finished",
+    "endDate": "07/25/2021",
+    "result": {
+      "pedestrian": 6732,
+      "rider": 136,
+      "truck": 5375,
+      "cyclist": 6218,
+      "forklift": 5939,
+      "car": 221
+    }
+  },
+  {
+    "id": 407,
+    "status": "Ready",
+    "endDate": "02/17/2020"
+  },
+  {
+    "id": 408,
+    "status": "Finished",
+    "endDate": "06/26/2020",
+    "result": {
+      "pedestrian": 5988,
+      "rider": 1041,
+      "truck": 8616,
+      "cyclist": 8081,
+      "forklift": 4609,
+      "car": 6854
+    }
+  },
+  {
+    "id": 409,
+    "status": "In-Progress",
+    "endDate": "10/19/2020"
+  },
+  {
+    "id": 410,
+    "status": "Ready",
+    "endDate": "03/07/2021"
+  },
+  {
+    "id": 411,
+    "status": "In-Progress",
+    "endDate": "02/20/2020"
+  },
+  {
+    "id": 412,
+    "status": "Ready",
+    "endDate": "07/17/2021"
+  },
+  {
+    "id": 413,
+    "status": "Finished",
+    "endDate": "11/08/2020",
+    "result": {
+      "pedestrian": 5035,
+      "rider": 8872,
+      "truck": 9254,
+      "cyclist": 9971,
+      "forklift": 6987,
+      "car": 6756
+    }
+  },
+  {
+    "id": 414,
+    "status": "Finished",
+    "endDate": "04/30/2020",
+    "result": {
+      "pedestrian": 7828,
+      "rider": 8709,
+      "truck": 1689,
+      "cyclist": 4250,
+      "forklift": 6260,
+      "car": 5247
+    }
+  },
+  {
+    "id": 415,
+    "status": "Finished",
+    "endDate": "11/07/2020",
+    "result": {
+      "pedestrian": 4810,
+      "rider": 9193,
+      "truck": 427,
+      "cyclist": 1743,
+      "forklift": 7126,
+      "car": 4455
+    }
+  },
+  {
+    "id": 416,
+    "status": "In-Progress",
+    "endDate": "12/16/2021"
+  },
+  {
+    "id": 417,
+    "status": "Ready",
+    "endDate": "12/25/2021"
+  },
+  {
+    "id": 418,
+    "status": "Ready",
+    "endDate": "12/15/2020"
+  },
+  {
+    "id": 419,
+    "status": "In-Progress",
+    "endDate": "07/01/2021"
+  },
+  {
+    "id": 420,
+    "status": "Ready",
+    "endDate": "12/15/2020"
+  },
+  {
+    "id": 421,
+    "status": "Finished",
+    "endDate": "01/10/2021",
+    "result": {
+      "pedestrian": 2691,
+      "rider": 2111,
+      "truck": 5750,
+      "cyclist": 6179,
+      "forklift": 5841,
+      "car": 6151
+    }
+  },
+  {
+    "id": 422,
+    "status": "Finished",
+    "endDate": "04/15/2021",
+    "result": {
+      "pedestrian": 1453,
+      "rider": 9157,
+      "truck": 7164,
+      "cyclist": 9505,
+      "forklift": 9064,
+      "car": 5206
+    }
+  },
+  {
+    "id": 423,
+    "status": "In-Progress",
+    "endDate": "10/07/2020"
+  },
+  {
+    "id": 424,
+    "status": "Finished",
+    "endDate": "01/19/2020",
+    "result": {
+      "pedestrian": 7471,
+      "rider": 686,
+      "truck": 6785,
+      "cyclist": 6747,
+      "forklift": 6360,
+      "car": 9310
+    }
+  },
+  {
+    "id": 425,
+    "status": "Finished",
+    "endDate": "01/06/2021",
+    "result": {
+      "pedestrian": 9380,
+      "rider": 5143,
+      "truck": 371,
+      "cyclist": 552,
+      "forklift": 1987,
+      "car": 3346
+    }
+  },
+  {
+    "id": 426,
+    "status": "In-Progress",
+    "endDate": "07/12/2020"
+  },
+  {
+    "id": 427,
+    "status": "In-Progress",
+    "endDate": "06/04/2021"
+  },
+  {
+    "id": 428,
+    "status": "Ready",
+    "endDate": "04/28/2021"
+  },
+  {
+    "id": 429,
+    "status": "Finished",
+    "endDate": "06/09/2021",
+    "result": {
+      "pedestrian": 9414,
+      "rider": 5417,
+      "truck": 6454,
+      "cyclist": 8568,
+      "forklift": 1749,
+      "car": 6034
+    }
+  },
+  {
+    "id": 430,
+    "status": "Ready",
+    "endDate": "11/18/2021"
+  },
+  {
+    "id": 431,
+    "status": "In-Progress",
+    "endDate": "12/02/2020"
+  },
+  {
+    "id": 432,
+    "status": "Finished",
+    "endDate": "04/17/2021",
+    "result": {
+      "pedestrian": 6456,
+      "rider": 5297,
+      "truck": 9959,
+      "cyclist": 280,
+      "forklift": 7239,
+      "car": 983
+    }
+  },
+  {
+    "id": 433,
+    "status": "Ready",
+    "endDate": "11/19/2021"
+  },
+  {
+    "id": 434,
+    "status": "In-Progress",
+    "endDate": "03/21/2020"
+  },
+  {
+    "id": 435,
+    "status": "Finished",
+    "endDate": "08/28/2021",
+    "result": {
+      "pedestrian": 3742,
+      "rider": 9339,
+      "truck": 2523,
+      "cyclist": 7508,
+      "forklift": 9920,
+      "car": 529
+    }
+  },
+  {
+    "id": 436,
+    "status": "In-Progress",
+    "endDate": "03/07/2021"
+  },
+  {
+    "id": 437,
+    "status": "In-Progress",
+    "endDate": "01/29/2021"
+  },
+  {
+    "id": 438,
+    "status": "Ready",
+    "endDate": "08/10/2020"
+  },
+  {
+    "id": 439,
+    "status": "Finished",
+    "endDate": "11/26/2020",
+    "result": {
+      "pedestrian": 709,
+      "rider": 4922,
+      "truck": 7099,
+      "cyclist": 312,
+      "forklift": 2169,
+      "car": 4468
+    }
+  },
+  {
+    "id": 440,
+    "status": "Ready",
+    "endDate": "08/17/2021"
+  },
+  {
+    "id": 441,
+    "status": "Ready",
+    "endDate": "05/08/2021"
+  },
+  {
+    "id": 442,
+    "status": "Finished",
+    "endDate": "03/29/2020",
+    "result": {
+      "pedestrian": 7463,
+      "rider": 3,
+      "truck": 5812,
+      "cyclist": 9239,
+      "forklift": 1296,
+      "car": 1996
+    }
+  },
+  {
+    "id": 443,
+    "status": "Ready",
+    "endDate": "03/12/2021"
+  },
+  {
+    "id": 444,
+    "status": "Finished",
+    "endDate": "07/06/2020",
+    "result": {
+      "pedestrian": 6618,
+      "rider": 4659,
+      "truck": 1655,
+      "cyclist": 5481,
+      "forklift": 4514,
+      "car": 6592
+    }
+  },
+  {
+    "id": 445,
+    "status": "Ready",
+    "endDate": "05/10/2021"
+  },
+  {
+    "id": 446,
+    "status": "In-Progress",
+    "endDate": "12/23/2020"
+  },
+  {
+    "id": 447,
+    "status": "Ready",
+    "endDate": "08/26/2020"
+  },
+  {
+    "id": 448,
+    "status": "Finished",
+    "endDate": "10/06/2021",
+    "result": {
+      "pedestrian": 325,
+      "rider": 7018,
+      "truck": 7323,
+      "cyclist": 1745,
+      "forklift": 9641,
+      "car": 6716
+    }
+  },
+  {
+    "id": 449,
+    "status": "Ready",
+    "endDate": "05/01/2020"
+  },
+  {
+    "id": 450,
+    "status": "Finished",
+    "endDate": "09/21/2020",
+    "result": {
+      "pedestrian": 8192,
+      "rider": 2816,
+      "truck": 2363,
+      "cyclist": 2116,
+      "forklift": 5073,
+      "car": 3095
+    }
+  },
+  {
+    "id": 451,
+    "status": "Ready",
+    "endDate": "09/30/2021"
+  },
+  {
+    "id": 452,
+    "status": "Ready",
+    "endDate": "06/24/2021"
+  },
+  {
+    "id": 453,
+    "status": "Finished",
+    "endDate": "09/04/2020",
+    "result": {
+      "pedestrian": 2003,
+      "rider": 7481,
+      "truck": 1737,
+      "cyclist": 1292,
+      "forklift": 6619,
+      "car": 4824
+    }
+  },
+  {
+    "id": 454,
+    "status": "Finished",
+    "endDate": "04/23/2021",
+    "result": {
+      "pedestrian": 5335,
+      "rider": 2639,
+      "truck": 2158,
+      "cyclist": 6331,
+      "forklift": 2570,
+      "car": 8954
+    }
+  },
+  {
+    "id": 455,
+    "status": "Ready",
+    "endDate": "03/16/2021"
+  },
+  {
+    "id": 456,
+    "status": "In-Progress",
+    "endDate": "06/12/2020"
+  },
+  {
+    "id": 457,
+    "status": "Finished",
+    "endDate": "05/06/2020",
+    "result": {
+      "pedestrian": 1023,
+      "rider": 6606,
+      "truck": 7392,
+      "cyclist": 3669,
+      "forklift": 6237,
+      "car": 8401
+    }
+  },
+  {
+    "id": 458,
+    "status": "Finished",
+    "endDate": "01/30/2021",
+    "result": {
+      "pedestrian": 6178,
+      "rider": 513,
+      "truck": 1857,
+      "cyclist": 9656,
+      "forklift": 2984,
+      "car": 2302
+    }
+  },
+  {
+    "id": 459,
+    "status": "In-Progress",
+    "endDate": "03/06/2020"
+  },
+  {
+    "id": 460,
+    "status": "Ready",
+    "endDate": "01/05/2022"
+  },
+  {
+    "id": 461,
+    "status": "Ready",
+    "endDate": "03/14/2021"
+  },
+  {
+    "id": 462,
+    "status": "Ready",
+    "endDate": "07/22/2020"
+  },
+  {
+    "id": 463,
+    "status": "In-Progress",
+    "endDate": "11/17/2021"
+  },
+  {
+    "id": 464,
+    "status": "Finished",
+    "endDate": "04/08/2020",
+    "result": {
+      "pedestrian": 4302,
+      "rider": 7946,
+      "truck": 9607,
+      "cyclist": 4843,
+      "forklift": 6679,
+      "car": 4877
+    }
+  },
+  {
+    "id": 465,
+    "status": "Ready",
+    "endDate": "08/02/2021"
+  },
+  {
+    "id": 466,
+    "status": "In-Progress",
+    "endDate": "11/11/2021"
+  },
+  {
+    "id": 467,
+    "status": "Ready",
+    "endDate": "01/24/2021"
+  },
+  {
+    "id": 468,
+    "status": "Finished",
+    "endDate": "01/23/2021",
+    "result": {
+      "pedestrian": 9915,
+      "rider": 9570,
+      "truck": 6061,
+      "cyclist": 6739,
+      "forklift": 4871,
+      "car": 1061
+    }
+  },
+  {
+    "id": 469,
+    "status": "Ready",
+    "endDate": "09/21/2021"
+  },
+  {
+    "id": 470,
+    "status": "Ready",
+    "endDate": "12/17/2021"
+  },
+  {
+    "id": 471,
+    "status": "Ready",
+    "endDate": "03/26/2021"
+  },
+  {
+    "id": 472,
+    "status": "Ready",
+    "endDate": "06/20/2020"
+  },
+  {
+    "id": 473,
+    "status": "Finished",
+    "endDate": "03/25/2021",
+    "result": {
+      "pedestrian": 9034,
+      "rider": 9708,
+      "truck": 1614,
+      "cyclist": 4699,
+      "forklift": 9292,
+      "car": 7540
+    }
+  },
+  {
+    "id": 474,
+    "status": "Finished",
+    "endDate": "04/22/2020",
+    "result": {
+      "pedestrian": 3280,
+      "rider": 5535,
+      "truck": 755,
+      "cyclist": 3494,
+      "forklift": 1393,
+      "car": 4861
+    }
+  },
+  {
+    "id": 475,
+    "status": "Ready",
+    "endDate": "01/05/2022"
+  },
+  {
+    "id": 476,
+    "status": "Ready",
+    "endDate": "10/04/2021"
+  },
+  {
+    "id": 477,
+    "status": "Finished",
+    "endDate": "12/10/2020",
+    "result": {
+      "pedestrian": 1801,
+      "rider": 3979,
+      "truck": 5374,
+      "cyclist": 2607,
+      "forklift": 4953,
+      "car": 5565
+    }
+  },
+  {
+    "id": 478,
+    "status": "Finished",
+    "endDate": "01/01/2021",
+    "result": {
+      "pedestrian": 8064,
+      "rider": 4678,
+      "truck": 2125,
+      "cyclist": 9719,
+      "forklift": 948,
+      "car": 870
+    }
+  },
+  {
+    "id": 479,
+    "status": "In-Progress",
+    "endDate": "03/16/2021"
+  },
+  {
+    "id": 480,
+    "status": "Ready",
+    "endDate": "09/29/2020"
+  },
+  {
+    "id": 481,
+    "status": "Finished",
+    "endDate": "11/16/2021",
+    "result": {
+      "pedestrian": 6197,
+      "rider": 5802,
+      "truck": 1298,
+      "cyclist": 8289,
+      "forklift": 1297,
+      "car": 3423
+    }
+  },
+  {
+    "id": 482,
+    "status": "In-Progress",
+    "endDate": "06/07/2021"
+  },
+  {
+    "id": 483,
+    "status": "Finished",
+    "endDate": "12/08/2021",
+    "result": {
+      "pedestrian": 6916,
+      "rider": 2963,
+      "truck": 5440,
+      "cyclist": 5966,
+      "forklift": 1747,
+      "car": 3443
+    }
+  },
+  {
+    "id": 484,
+    "status": "In-Progress",
+    "endDate": "05/22/2021"
+  },
+  {
+    "id": 485,
+    "status": "In-Progress",
+    "endDate": "03/23/2021"
+  },
+  {
+    "id": 486,
+    "status": "In-Progress",
+    "endDate": "01/12/2021"
+  },
+  {
+    "id": 487,
+    "status": "In-Progress",
+    "endDate": "03/25/2020"
+  },
+  {
+    "id": 488,
+    "status": "In-Progress",
+    "endDate": "01/22/2020"
+  },
+  {
+    "id": 489,
+    "status": "In-Progress",
+    "endDate": "01/04/2022"
+  },
+  {
+    "id": 490,
+    "status": "Ready",
+    "endDate": "06/26/2020"
+  },
+  {
+    "id": 491,
+    "status": "Finished",
+    "endDate": "03/29/2021",
+    "result": {
+      "pedestrian": 7647,
+      "rider": 1159,
+      "truck": 508,
+      "cyclist": 6020,
+      "forklift": 6427,
+      "car": 2363
+    }
+  },
+  {
+    "id": 492,
+    "status": "Finished",
+    "endDate": "11/13/2020",
+    "result": {
+      "pedestrian": 9279,
+      "rider": 9045,
+      "truck": 6987,
+      "cyclist": 363,
+      "forklift": 8744,
+      "car": 8932
+    }
+  },
+  {
+    "id": 493,
+    "status": "In-Progress",
+    "endDate": "08/02/2021"
+  },
+  {
+    "id": 494,
+    "status": "Ready",
+    "endDate": "10/25/2021"
+  },
+  {
+    "id": 495,
+    "status": "In-Progress",
+    "endDate": "08/10/2021"
+  },
+  {
+    "id": 496,
+    "status": "Finished",
+    "endDate": "02/07/2021",
+    "result": {
+      "pedestrian": 1924,
+      "rider": 3564,
+      "truck": 3218,
+      "cyclist": 5801,
+      "forklift": 6570,
+      "car": 5376
+    }
+  },
+  {
+    "id": 497,
+    "status": "Finished",
+    "endDate": "04/15/2020",
+    "result": {
+      "pedestrian": 9887,
+      "rider": 4286,
+      "truck": 6181,
+      "cyclist": 3776,
+      "forklift": 4005,
+      "car": 8733
+    }
+  },
+  {
+    "id": 498,
+    "status": "Finished",
+    "endDate": "10/17/2020",
+    "result": {
+      "pedestrian": 4019,
+      "rider": 504,
+      "truck": 5023,
+      "cyclist": 6765,
+      "forklift": 5492,
+      "car": 7213
+    }
+  },
+  {
+    "id": 499,
+    "status": "Finished",
+    "endDate": "03/06/2020",
+    "result": {
+      "pedestrian": 1554,
+      "rider": 6275,
+      "truck": 6914,
+      "cyclist": 2769,
+      "forklift": 8644,
+      "car": 555
+    }
+  },
+  {
+    "id": 500,
+    "status": "Finished",
+    "endDate": "08/09/2020",
+    "result": {
+      "pedestrian": 4257,
+      "rider": 1154,
+      "truck": 2350,
+      "cyclist": 3755,
+      "forklift": 8352,
+      "car": 4657
+    }
+  },
+  {
+    "id": 501,
+    "status": "Finished",
+    "endDate": "08/13/2020",
+    "result": {
+      "pedestrian": 3801,
+      "rider": 1665,
+      "truck": 9451,
+      "cyclist": 9399,
+      "forklift": 9275,
+      "car": 5290
+    }
+  },
+  {
+    "id": 502,
+    "status": "Ready",
+    "endDate": "08/12/2020"
+  },
+  {
+    "id": 503,
+    "status": "Finished",
+    "endDate": "08/27/2021",
+    "result": {
+      "pedestrian": 2468,
+      "rider": 7657,
+      "truck": 5471,
+      "cyclist": 6589,
+      "forklift": 2773,
+      "car": 6644
+    }
+  },
+  {
+    "id": 504,
+    "status": "Ready",
+    "endDate": "04/21/2020"
+  },
+  {
+    "id": 505,
+    "status": "Finished",
+    "endDate": "08/19/2020",
+    "result": {
+      "pedestrian": 6237,
+      "rider": 2602,
+      "truck": 3625,
+      "cyclist": 387,
+      "forklift": 6396,
+      "car": 3139
+    }
+  },
+  {
+    "id": 506,
+    "status": "Ready",
+    "endDate": "01/28/2021"
+  },
+  {
+    "id": 507,
+    "status": "Finished",
+    "endDate": "02/28/2020",
+    "result": {
+      "pedestrian": 8942,
+      "rider": 4698,
+      "truck": 4266,
+      "cyclist": 7089,
+      "forklift": 7971,
+      "car": 3116
+    }
+  },
+  {
+    "id": 508,
+    "status": "Ready",
+    "endDate": "11/22/2020"
+  },
+  {
+    "id": 509,
+    "status": "Finished",
+    "endDate": "04/18/2021",
+    "result": {
+      "pedestrian": 1875,
+      "rider": 9221,
+      "truck": 1045,
+      "cyclist": 5080,
+      "forklift": 9827,
+      "car": 3424
+    }
+  },
+  {
+    "id": 510,
+    "status": "Finished",
+    "endDate": "09/24/2020",
+    "result": {
+      "pedestrian": 28,
+      "rider": 9735,
+      "truck": 3090,
+      "cyclist": 3660,
+      "forklift": 896,
+      "car": 7696
+    }
+  },
+  {
+    "id": 511,
+    "status": "In-Progress",
+    "endDate": "01/02/2020"
+  },
+  {
+    "id": 512,
+    "status": "Finished",
+    "endDate": "10/06/2021",
+    "result": {
+      "pedestrian": 1399,
+      "rider": 1968,
+      "truck": 1835,
+      "cyclist": 8060,
+      "forklift": 6844,
+      "car": 3443
+    }
+  },
+  {
+    "id": 513,
+    "status": "Ready",
+    "endDate": "11/01/2021"
+  },
+  {
+    "id": 514,
+    "status": "In-Progress",
+    "endDate": "07/19/2021"
+  },
+  {
+    "id": 515,
+    "status": "Ready",
+    "endDate": "09/12/2020"
+  },
+  {
+    "id": 516,
+    "status": "Finished",
+    "endDate": "05/01/2020",
+    "result": {
+      "pedestrian": 3107,
+      "rider": 8905,
+      "truck": 7936,
+      "cyclist": 6771,
+      "forklift": 7473,
+      "car": 3540
+    }
+  },
+  {
+    "id": 517,
+    "status": "Finished",
+    "endDate": "06/13/2021",
+    "result": {
+      "pedestrian": 5031,
+      "rider": 82,
+      "truck": 6916,
+      "cyclist": 711,
+      "forklift": 5301,
+      "car": 7362
+    }
+  },
+  {
+    "id": 518,
+    "status": "Ready",
+    "endDate": "04/16/2020"
+  },
+  {
+    "id": 519,
+    "status": "Finished",
+    "endDate": "07/14/2020",
+    "result": {
+      "pedestrian": 2168,
+      "rider": 6298,
+      "truck": 9978,
+      "cyclist": 9535,
+      "forklift": 3615,
+      "car": 9351
+    }
+  },
+  {
+    "id": 520,
+    "status": "Finished",
+    "endDate": "05/21/2021",
+    "result": {
+      "pedestrian": 3686,
+      "rider": 3421,
+      "truck": 1253,
+      "cyclist": 3180,
+      "forklift": 9177,
+      "car": 2622
+    }
+  },
+  {
+    "id": 521,
+    "status": "In-Progress",
+    "endDate": "10/09/2021"
+  },
+  {
+    "id": 522,
+    "status": "In-Progress",
+    "endDate": "06/13/2020"
+  },
+  {
+    "id": 523,
+    "status": "In-Progress",
+    "endDate": "08/14/2021"
+  },
+  {
+    "id": 524,
+    "status": "Finished",
+    "endDate": "07/21/2020",
+    "result": {
+      "pedestrian": 8598,
+      "rider": 1305,
+      "truck": 5481,
+      "cyclist": 9692,
+      "forklift": 7682,
+      "car": 49
+    }
+  },
+  {
+    "id": 525,
+    "status": "In-Progress",
+    "endDate": "01/17/2020"
+  },
+  {
+    "id": 526,
+    "status": "In-Progress",
+    "endDate": "11/18/2020"
+  },
+  {
+    "id": 527,
+    "status": "In-Progress",
+    "endDate": "08/22/2020"
+  },
+  {
+    "id": 528,
+    "status": "Finished",
+    "endDate": "06/17/2020",
+    "result": {
+      "pedestrian": 3389,
+      "rider": 9537,
+      "truck": 5878,
+      "cyclist": 7071,
+      "forklift": 9149,
+      "car": 2823
+    }
+  },
+  {
+    "id": 529,
+    "status": "In-Progress",
+    "endDate": "01/19/2020"
+  },
+  {
+    "id": 530,
+    "status": "Finished",
+    "endDate": "12/17/2020",
+    "result": {
+      "pedestrian": 104,
+      "rider": 8046,
+      "truck": 6166,
+      "cyclist": 2864,
+      "forklift": 2048,
+      "car": 6256
+    }
+  },
+  {
+    "id": 531,
+    "status": "Finished",
+    "endDate": "01/28/2020",
+    "result": {
+      "pedestrian": 4245,
+      "rider": 1492,
+      "truck": 6576,
+      "cyclist": 5657,
+      "forklift": 2622,
+      "car": 4495
+    }
+  },
+  {
+    "id": 532,
+    "status": "In-Progress",
+    "endDate": "07/05/2021"
+  },
+  {
+    "id": 533,
+    "status": "Ready",
+    "endDate": "01/05/2020"
+  },
+  {
+    "id": 534,
+    "status": "Ready",
+    "endDate": "08/16/2021"
+  },
+  {
+    "id": 535,
+    "status": "Finished",
+    "endDate": "07/23/2020",
+    "result": {
+      "pedestrian": 7531,
+      "rider": 4186,
+      "truck": 667,
+      "cyclist": 234,
+      "forklift": 728,
+      "car": 708
+    }
+  },
+  {
+    "id": 536,
+    "status": "In-Progress",
+    "endDate": "03/18/2021"
+  },
+  {
+    "id": 537,
+    "status": "Finished",
+    "endDate": "09/14/2021",
+    "result": {
+      "pedestrian": 4917,
+      "rider": 9209,
+      "truck": 654,
+      "cyclist": 8709,
+      "forklift": 1784,
+      "car": 8583
+    }
+  },
+  {
+    "id": 538,
+    "status": "Ready",
+    "endDate": "08/29/2020"
+  },
+  {
+    "id": 539,
+    "status": "Finished",
+    "endDate": "04/10/2020",
+    "result": {
+      "pedestrian": 2898,
+      "rider": 3859,
+      "truck": 5325,
+      "cyclist": 5145,
+      "forklift": 4657,
+      "car": 3975
+    }
+  },
+  {
+    "id": 540,
+    "status": "Finished",
+    "endDate": "03/14/2021",
+    "result": {
+      "pedestrian": 512,
+      "rider": 6468,
+      "truck": 2862,
+      "cyclist": 3240,
+      "forklift": 2862,
+      "car": 5614
+    }
+  },
+  {
+    "id": 541,
+    "status": "Finished",
+    "endDate": "06/11/2020",
+    "result": {
+      "pedestrian": 4492,
+      "rider": 3062,
+      "truck": 4788,
+      "cyclist": 168,
+      "forklift": 7074,
+      "car": 2392
+    }
+  },
+  {
+    "id": 542,
+    "status": "Finished",
+    "endDate": "06/22/2020",
+    "result": {
+      "pedestrian": 8752,
+      "rider": 7222,
+      "truck": 5709,
+      "cyclist": 513,
+      "forklift": 5424,
+      "car": 7174
+    }
+  },
+  {
+    "id": 543,
+    "status": "Ready",
+    "endDate": "05/08/2021"
+  },
+  {
+    "id": 544,
+    "status": "In-Progress",
+    "endDate": "04/18/2020"
+  },
+  {
+    "id": 545,
+    "status": "Ready",
+    "endDate": "09/28/2021"
+  },
+  {
+    "id": 546,
+    "status": "Finished",
+    "endDate": "12/12/2021",
+    "result": {
+      "pedestrian": 3096,
+      "rider": 2853,
+      "truck": 106,
+      "cyclist": 5971,
+      "forklift": 9441,
+      "car": 4971
+    }
+  },
+  {
+    "id": 547,
+    "status": "Finished",
+    "endDate": "01/15/2021",
+    "result": {
+      "pedestrian": 2468,
+      "rider": 8359,
+      "truck": 5875,
+      "cyclist": 7566,
+      "forklift": 3137,
+      "car": 586
+    }
+  },
+  {
+    "id": 548,
+    "status": "Finished",
+    "endDate": "09/01/2021",
+    "result": {
+      "pedestrian": 1887,
+      "rider": 2061,
+      "truck": 2333,
+      "cyclist": 2439,
+      "forklift": 1495,
+      "car": 1079
+    }
+  },
+  {
+    "id": 549,
+    "status": "In-Progress",
+    "endDate": "08/22/2020"
+  },
+  {
+    "id": 550,
+    "status": "Ready",
+    "endDate": "09/21/2021"
+  },
+  {
+    "id": 551,
+    "status": "In-Progress",
+    "endDate": "05/13/2020"
+  },
+  {
+    "id": 552,
+    "status": "In-Progress",
+    "endDate": "08/16/2020"
+  },
+  {
+    "id": 553,
+    "status": "Ready",
+    "endDate": "10/03/2020"
+  },
+  {
+    "id": 554,
+    "status": "Finished",
+    "endDate": "12/26/2020",
+    "result": {
+      "pedestrian": 8392,
+      "rider": 765,
+      "truck": 6494,
+      "cyclist": 7136,
+      "forklift": 5615,
+      "car": 625
+    }
+  },
+  {
+    "id": 555,
+    "status": "Ready",
+    "endDate": "07/30/2021"
+  },
+  {
+    "id": 556,
+    "status": "Finished",
+    "endDate": "03/31/2021",
+    "result": {
+      "pedestrian": 2919,
+      "rider": 7551,
+      "truck": 2435,
+      "cyclist": 6773,
+      "forklift": 6691,
+      "car": 944
+    }
+  },
+  {
+    "id": 557,
+    "status": "Finished",
+    "endDate": "12/13/2021",
+    "result": {
+      "pedestrian": 4685,
+      "rider": 5186,
+      "truck": 3857,
+      "cyclist": 7473,
+      "forklift": 4235,
+      "car": 3497
+    }
+  },
+  {
+    "id": 558,
+    "status": "Ready",
+    "endDate": "03/19/2021"
+  },
+  {
+    "id": 559,
+    "status": "In-Progress",
+    "endDate": "04/23/2021"
+  },
+  {
+    "id": 560,
+    "status": "In-Progress",
+    "endDate": "06/16/2020"
+  },
+  {
+    "id": 561,
+    "status": "Ready",
+    "endDate": "11/26/2020"
+  },
+  {
+    "id": 562,
+    "status": "Finished",
+    "endDate": "01/21/2020",
+    "result": {
+      "pedestrian": 7613,
+      "rider": 6964,
+      "truck": 8647,
+      "cyclist": 3500,
+      "forklift": 9148,
+      "car": 9739
+    }
+  },
+  {
+    "id": 563,
+    "status": "In-Progress",
+    "endDate": "02/07/2020"
+  },
+  {
+    "id": 564,
+    "status": "Finished",
+    "endDate": "11/06/2020",
+    "result": {
+      "pedestrian": 5405,
+      "rider": 9910,
+      "truck": 5092,
+      "cyclist": 7255,
+      "forklift": 1464,
+      "car": 8660
+    }
+  },
+  {
+    "id": 565,
+    "status": "In-Progress",
+    "endDate": "11/09/2021"
+  },
+  {
+    "id": 566,
+    "status": "Ready",
+    "endDate": "06/18/2020"
+  },
+  {
+    "id": 567,
+    "status": "Finished",
+    "endDate": "09/26/2021",
+    "result": {
+      "pedestrian": 3823,
+      "rider": 8993,
+      "truck": 2060,
+      "cyclist": 8212,
+      "forklift": 881,
+      "car": 2380
+    }
+  },
+  {
+    "id": 568,
+    "status": "Ready",
+    "endDate": "01/05/2020"
+  },
+  {
+    "id": 569,
+    "status": "In-Progress",
+    "endDate": "08/13/2020"
+  },
+  {
+    "id": 570,
+    "status": "In-Progress",
+    "endDate": "10/11/2021"
+  },
+  {
+    "id": 571,
+    "status": "Ready",
+    "endDate": "12/06/2021"
+  },
+  {
+    "id": 572,
+    "status": "Ready",
+    "endDate": "08/22/2020"
+  },
+  {
+    "id": 573,
+    "status": "In-Progress",
+    "endDate": "02/11/2021"
+  },
+  {
+    "id": 574,
+    "status": "In-Progress",
+    "endDate": "11/05/2020"
+  },
+  {
+    "id": 575,
+    "status": "Finished",
+    "endDate": "12/25/2021",
+    "result": {
+      "pedestrian": 8136,
+      "rider": 2985,
+      "truck": 7685,
+      "cyclist": 641,
+      "forklift": 4221,
+      "car": 7943
+    }
+  },
+  {
+    "id": 576,
+    "status": "Finished",
+    "endDate": "10/11/2020",
+    "result": {
+      "pedestrian": 5734,
+      "rider": 3246,
+      "truck": 327,
+      "cyclist": 59,
+      "forklift": 8871,
+      "car": 6166
+    }
+  },
+  {
+    "id": 577,
+    "status": "Ready",
+    "endDate": "02/03/2020"
+  },
+  {
+    "id": 578,
+    "status": "In-Progress",
+    "endDate": "06/29/2021"
+  },
+  {
+    "id": 579,
+    "status": "In-Progress",
+    "endDate": "08/04/2021"
+  },
+  {
+    "id": 580,
+    "status": "Finished",
+    "endDate": "03/12/2021",
+    "result": {
+      "pedestrian": 5289,
+      "rider": 3996,
+      "truck": 2893,
+      "cyclist": 1634,
+      "forklift": 2216,
+      "car": 2353
+    }
+  },
+  {
+    "id": 581,
+    "status": "In-Progress",
+    "endDate": "04/04/2021"
+  },
+  {
+    "id": 582,
+    "status": "Ready",
+    "endDate": "04/13/2020"
+  },
+  {
+    "id": 583,
+    "status": "In-Progress",
+    "endDate": "01/26/2021"
+  },
+  {
+    "id": 584,
+    "status": "In-Progress",
+    "endDate": "12/12/2021"
+  },
+  {
+    "id": 585,
+    "status": "Finished",
+    "endDate": "02/12/2021",
+    "result": {
+      "pedestrian": 8684,
+      "rider": 8670,
+      "truck": 2510,
+      "cyclist": 6747,
+      "forklift": 6810,
+      "car": 2345
+    }
+  },
+  {
+    "id": 586,
+    "status": "Finished",
+    "endDate": "10/08/2020",
+    "result": {
+      "pedestrian": 9974,
+      "rider": 431,
+      "truck": 5168,
+      "cyclist": 1908,
+      "forklift": 8643,
+      "car": 6823
+    }
+  },
+  {
+    "id": 587,
+    "status": "In-Progress",
+    "endDate": "03/16/2020"
+  },
+  {
+    "id": 588,
+    "status": "In-Progress",
+    "endDate": "07/22/2021"
+  },
+  {
+    "id": 589,
+    "status": "In-Progress",
+    "endDate": "09/22/2021"
+  },
+  {
+    "id": 590,
+    "status": "In-Progress",
+    "endDate": "12/30/2021"
+  },
+  {
+    "id": 591,
+    "status": "Ready",
+    "endDate": "09/26/2021"
+  },
+  {
+    "id": 592,
+    "status": "Finished",
+    "endDate": "07/28/2020",
+    "result": {
+      "pedestrian": 5425,
+      "rider": 5079,
+      "truck": 3872,
+      "cyclist": 5278,
+      "forklift": 8310,
+      "car": 7201
+    }
+  },
+  {
+    "id": 593,
+    "status": "Finished",
+    "endDate": "10/11/2021",
+    "result": {
+      "pedestrian": 2266,
+      "rider": 677,
+      "truck": 1700,
+      "cyclist": 8519,
+      "forklift": 247,
+      "car": 7192
+    }
+  },
+  {
+    "id": 594,
+    "status": "Finished",
+    "endDate": "08/11/2020",
+    "result": {
+      "pedestrian": 5980,
+      "rider": 627,
+      "truck": 4786,
+      "cyclist": 3711,
+      "forklift": 4471,
+      "car": 6154
+    }
+  },
+  {
+    "id": 595,
+    "status": "In-Progress",
+    "endDate": "07/22/2020"
+  },
+  {
+    "id": 596,
+    "status": "In-Progress",
+    "endDate": "03/10/2021"
+  },
+  {
+    "id": 597,
+    "status": "Finished",
+    "endDate": "06/20/2021",
+    "result": {
+      "pedestrian": 5014,
+      "rider": 5243,
+      "truck": 1493,
+      "cyclist": 5300,
+      "forklift": 3930,
+      "car": 9122
+    }
+  },
+  {
+    "id": 598,
+    "status": "In-Progress",
+    "endDate": "10/13/2020"
+  },
+  {
+    "id": 599,
+    "status": "In-Progress",
+    "endDate": "09/08/2020"
+  },
+  {
+    "id": 600,
+    "status": "In-Progress",
+    "endDate": "02/05/2020"
+  },
+  {
+    "id": 601,
+    "status": "In-Progress",
+    "endDate": "06/03/2021"
+  },
+  {
+    "id": 602,
+    "status": "Ready",
+    "endDate": "12/29/2020"
+  },
+  {
+    "id": 603,
+    "status": "Finished",
+    "endDate": "07/08/2020",
+    "result": {
+      "pedestrian": 6099,
+      "rider": 9540,
+      "truck": 1116,
+      "cyclist": 1579,
+      "forklift": 3642,
+      "car": 2144
+    }
+  },
+  {
+    "id": 604,
+    "status": "Ready",
+    "endDate": "02/18/2020"
+  },
+  {
+    "id": 605,
+    "status": "Ready",
+    "endDate": "08/12/2020"
+  },
+  {
+    "id": 606,
+    "status": "In-Progress",
+    "endDate": "09/02/2020"
+  },
+  {
+    "id": 607,
+    "status": "Ready",
+    "endDate": "12/15/2021"
+  },
+  {
+    "id": 608,
+    "status": "Ready",
+    "endDate": "01/31/2021"
+  },
+  {
+    "id": 609,
+    "status": "In-Progress",
+    "endDate": "10/15/2021"
+  },
+  {
+    "id": 610,
+    "status": "In-Progress",
+    "endDate": "08/07/2021"
+  },
+  {
+    "id": 611,
+    "status": "Finished",
+    "endDate": "07/31/2021",
+    "result": {
+      "pedestrian": 8770,
+      "rider": 2718,
+      "truck": 306,
+      "cyclist": 960,
+      "forklift": 6306,
+      "car": 3684
+    }
+  },
+  {
+    "id": 612,
+    "status": "Ready",
+    "endDate": "02/03/2020"
+  },
+  {
+    "id": 613,
+    "status": "In-Progress",
+    "endDate": "09/15/2021"
+  },
+  {
+    "id": 614,
+    "status": "In-Progress",
+    "endDate": "05/06/2020"
+  },
+  {
+    "id": 615,
+    "status": "Finished",
+    "endDate": "04/26/2020",
+    "result": {
+      "pedestrian": 8353,
+      "rider": 1692,
+      "truck": 4861,
+      "cyclist": 5697,
+      "forklift": 5620,
+      "car": 1945
+    }
+  },
+  {
+    "id": 616,
+    "status": "Ready",
+    "endDate": "08/16/2020"
+  },
+  {
+    "id": 617,
+    "status": "Finished",
+    "endDate": "08/20/2020",
+    "result": {
+      "pedestrian": 7983,
+      "rider": 361,
+      "truck": 4382,
+      "cyclist": 3078,
+      "forklift": 270,
+      "car": 2361
+    }
+  },
+  {
+    "id": 618,
+    "status": "Ready",
+    "endDate": "03/31/2021"
+  },
+  {
+    "id": 619,
+    "status": "Finished",
+    "endDate": "03/06/2020",
+    "result": {
+      "pedestrian": 490,
+      "rider": 5609,
+      "truck": 5097,
+      "cyclist": 5010,
+      "forklift": 4876,
+      "car": 6953
+    }
+  },
+  {
+    "id": 620,
+    "status": "Finished",
+    "endDate": "10/08/2020",
+    "result": {
+      "pedestrian": 1304,
+      "rider": 5338,
+      "truck": 1863,
+      "cyclist": 6545,
+      "forklift": 6877,
+      "car": 7282
+    }
+  },
+  {
+    "id": 621,
+    "status": "In-Progress",
+    "endDate": "07/11/2020"
+  },
+  {
+    "id": 622,
+    "status": "Ready",
+    "endDate": "04/02/2020"
+  },
+  {
+    "id": 623,
+    "status": "Ready",
+    "endDate": "06/12/2020"
+  },
+  {
+    "id": 624,
+    "status": "In-Progress",
+    "endDate": "05/18/2020"
+  },
+  {
+    "id": 625,
+    "status": "Ready",
+    "endDate": "03/06/2020"
+  },
+  {
+    "id": 626,
+    "status": "Ready",
+    "endDate": "01/02/2021"
+  },
+  {
+    "id": 627,
+    "status": "In-Progress",
+    "endDate": "03/27/2020"
+  },
+  {
+    "id": 628,
+    "status": "Ready",
+    "endDate": "03/22/2020"
+  },
+  {
+    "id": 629,
+    "status": "Ready",
+    "endDate": "05/25/2021"
+  },
+  {
+    "id": 630,
+    "status": "In-Progress",
+    "endDate": "07/15/2020"
+  },
+  {
+    "id": 631,
+    "status": "In-Progress",
+    "endDate": "09/17/2020"
+  },
+  {
+    "id": 632,
+    "status": "Finished",
+    "endDate": "03/03/2020",
+    "result": {
+      "pedestrian": 3757,
+      "rider": 7163,
+      "truck": 6726,
+      "cyclist": 6899,
+      "forklift": 7443,
+      "car": 1878
+    }
+  },
+  {
+    "id": 633,
+    "status": "Finished",
+    "endDate": "03/11/2020",
+    "result": {
+      "pedestrian": 1010,
+      "rider": 1414,
+      "truck": 1460,
+      "cyclist": 1208,
+      "forklift": 9413,
+      "car": 6647
+    }
+  },
+  {
+    "id": 634,
+    "status": "In-Progress",
+    "endDate": "06/27/2020"
+  },
+  {
+    "id": 635,
+    "status": "Ready",
+    "endDate": "06/22/2021"
+  },
+  {
+    "id": 636,
+    "status": "Ready",
+    "endDate": "09/19/2020"
+  },
+  {
+    "id": 637,
+    "status": "In-Progress",
+    "endDate": "07/30/2021"
+  },
+  {
+    "id": 638,
+    "status": "Ready",
+    "endDate": "12/06/2020"
+  },
+  {
+    "id": 639,
+    "status": "In-Progress",
+    "endDate": "06/16/2021"
+  },
+  {
+    "id": 640,
+    "status": "Ready",
+    "endDate": "03/17/2020"
+  },
+  {
+    "id": 641,
+    "status": "Ready",
+    "endDate": "06/28/2020"
+  },
+  {
+    "id": 642,
+    "status": "Finished",
+    "endDate": "06/07/2020",
+    "result": {
+      "pedestrian": 8471,
+      "rider": 9539,
+      "truck": 7928,
+      "cyclist": 9575,
+      "forklift": 2372,
+      "car": 1551
+    }
+  },
+  {
+    "id": 643,
+    "status": "Ready",
+    "endDate": "12/19/2020"
+  },
+  {
+    "id": 644,
+    "status": "Finished",
+    "endDate": "10/05/2020",
+    "result": {
+      "pedestrian": 6978,
+      "rider": 4909,
+      "truck": 5235,
+      "cyclist": 5276,
+      "forklift": 2830,
+      "car": 7378
+    }
+  },
+  {
+    "id": 645,
+    "status": "Ready",
+    "endDate": "12/25/2020"
+  },
+  {
+    "id": 646,
+    "status": "In-Progress",
+    "endDate": "11/27/2021"
+  },
+  {
+    "id": 647,
+    "status": "In-Progress",
+    "endDate": "05/08/2020"
+  },
+  {
+    "id": 648,
+    "status": "In-Progress",
+    "endDate": "08/11/2021"
+  },
+  {
+    "id": 649,
+    "status": "Finished",
+    "endDate": "01/05/2021",
+    "result": {
+      "pedestrian": 4437,
+      "rider": 7991,
+      "truck": 6063,
+      "cyclist": 3819,
+      "forklift": 9538,
+      "car": 7909
+    }
+  },
+  {
+    "id": 650,
+    "status": "In-Progress",
+    "endDate": "06/09/2021"
+  },
+  {
+    "id": 651,
+    "status": "Finished",
+    "endDate": "01/08/2021",
+    "result": {
+      "pedestrian": 2215,
+      "rider": 7308,
+      "truck": 2767,
+      "cyclist": 7384,
+      "forklift": 6982,
+      "car": 3238
+    }
+  },
+  {
+    "id": 652,
+    "status": "In-Progress",
+    "endDate": "12/05/2020"
+  },
+  {
+    "id": 653,
+    "status": "Ready",
+    "endDate": "04/20/2021"
+  },
+  {
+    "id": 654,
+    "status": "Ready",
+    "endDate": "02/16/2021"
+  },
+  {
+    "id": 655,
+    "status": "In-Progress",
+    "endDate": "06/13/2020"
+  },
+  {
+    "id": 656,
+    "status": "In-Progress",
+    "endDate": "03/30/2021"
+  },
+  {
+    "id": 657,
+    "status": "Finished",
+    "endDate": "02/28/2020",
+    "result": {
+      "pedestrian": 2820,
+      "rider": 5542,
+      "truck": 3467,
+      "cyclist": 6629,
+      "forklift": 1286,
+      "car": 3198
+    }
+  },
+  {
+    "id": 658,
+    "status": "In-Progress",
+    "endDate": "10/21/2021"
+  },
+  {
+    "id": 659,
+    "status": "Finished",
+    "endDate": "02/23/2021",
+    "result": {
+      "pedestrian": 9378,
+      "rider": 2137,
+      "truck": 5077,
+      "cyclist": 103,
+      "forklift": 5940,
+      "car": 5293
+    }
+  },
+  {
+    "id": 660,
+    "status": "Finished",
+    "endDate": "08/28/2020",
+    "result": {
+      "pedestrian": 7957,
+      "rider": 4624,
+      "truck": 5281,
+      "cyclist": 9943,
+      "forklift": 3014,
+      "car": 7472
+    }
+  },
+  {
+    "id": 661,
+    "status": "Ready",
+    "endDate": "01/13/2021"
+  },
+  {
+    "id": 662,
+    "status": "Finished",
+    "endDate": "09/01/2021",
+    "result": {
+      "pedestrian": 8103,
+      "rider": 9990,
+      "truck": 430,
+      "cyclist": 1666,
+      "forklift": 5000,
+      "car": 6438
+    }
+  },
+  {
+    "id": 663,
+    "status": "Ready",
+    "endDate": "09/25/2020"
+  },
+  {
+    "id": 664,
+    "status": "Ready",
+    "endDate": "10/11/2021"
+  },
+  {
+    "id": 665,
+    "status": "In-Progress",
+    "endDate": "11/17/2020"
+  },
+  {
+    "id": 666,
+    "status": "Ready",
+    "endDate": "05/21/2021"
+  },
+  {
+    "id": 667,
+    "status": "Ready",
+    "endDate": "07/24/2021"
+  },
+  {
+    "id": 668,
+    "status": "Ready",
+    "endDate": "01/01/2022"
+  },
+  {
+    "id": 669,
+    "status": "In-Progress",
+    "endDate": "12/13/2021"
+  },
+  {
+    "id": 670,
+    "status": "In-Progress",
+    "endDate": "01/28/2021"
+  },
+  {
+    "id": 671,
+    "status": "Finished",
+    "endDate": "01/11/2020",
+    "result": {
+      "pedestrian": 1341,
+      "rider": 1400,
+      "truck": 798,
+      "cyclist": 2509,
+      "forklift": 753,
+      "car": 6171
+    }
+  },
+  {
+    "id": 672,
+    "status": "Finished",
+    "endDate": "10/31/2020",
+    "result": {
+      "pedestrian": 4440,
+      "rider": 245,
+      "truck": 7611,
+      "cyclist": 8668,
+      "forklift": 6702,
+      "car": 4966
+    }
+  },
+  {
+    "id": 673,
+    "status": "Finished",
+    "endDate": "05/21/2020",
+    "result": {
+      "pedestrian": 5993,
+      "rider": 1928,
+      "truck": 534,
+      "cyclist": 6832,
+      "forklift": 4751,
+      "car": 5043
+    }
+  },
+  {
+    "id": 674,
+    "status": "Finished",
+    "endDate": "05/27/2021",
+    "result": {
+      "pedestrian": 8801,
+      "rider": 6543,
+      "truck": 5876,
+      "cyclist": 9231,
+      "forklift": 6864,
+      "car": 4926
+    }
+  },
+  {
+    "id": 675,
+    "status": "Finished",
+    "endDate": "09/28/2021",
+    "result": {
+      "pedestrian": 5149,
+      "rider": 5877,
+      "truck": 8221,
+      "cyclist": 2340,
+      "forklift": 1405,
+      "car": 7616
+    }
+  },
+  {
+    "id": 676,
+    "status": "Ready",
+    "endDate": "12/19/2021"
+  },
+  {
+    "id": 677,
+    "status": "Finished",
+    "endDate": "04/16/2021",
+    "result": {
+      "pedestrian": 9597,
+      "rider": 5626,
+      "truck": 9036,
+      "cyclist": 3683,
+      "forklift": 248,
+      "car": 5250
+    }
+  },
+  {
+    "id": 678,
+    "status": "In-Progress",
+    "endDate": "04/28/2020"
+  },
+  {
+    "id": 679,
+    "status": "In-Progress",
+    "endDate": "03/13/2021"
+  },
+  {
+    "id": 680,
+    "status": "Ready",
+    "endDate": "12/07/2021"
+  },
+  {
+    "id": 681,
+    "status": "In-Progress",
+    "endDate": "08/17/2021"
+  },
+  {
+    "id": 682,
+    "status": "Finished",
+    "endDate": "01/23/2020",
+    "result": {
+      "pedestrian": 4114,
+      "rider": 336,
+      "truck": 1104,
+      "cyclist": 7288,
+      "forklift": 4569,
+      "car": 955
+    }
+  },
+  {
+    "id": 683,
+    "status": "Finished",
+    "endDate": "06/11/2021",
+    "result": {
+      "pedestrian": 4004,
+      "rider": 6368,
+      "truck": 5750,
+      "cyclist": 2342,
+      "forklift": 5596,
+      "car": 9611
+    }
+  },
+  {
+    "id": 684,
+    "status": "Finished",
+    "endDate": "01/09/2021",
+    "result": {
+      "pedestrian": 9366,
+      "rider": 5785,
+      "truck": 4001,
+      "cyclist": 8495,
+      "forklift": 2084,
+      "car": 9567
+    }
+  },
+  {
+    "id": 685,
+    "status": "In-Progress",
+    "endDate": "04/29/2020"
+  },
+  {
+    "id": 686,
+    "status": "Ready",
+    "endDate": "06/18/2021"
+  },
+  {
+    "id": 687,
+    "status": "In-Progress",
+    "endDate": "11/12/2020"
+  },
+  {
+    "id": 688,
+    "status": "In-Progress",
+    "endDate": "03/05/2021"
+  },
+  {
+    "id": 689,
+    "status": "Finished",
+    "endDate": "10/30/2020",
+    "result": {
+      "pedestrian": 3784,
+      "rider": 8256,
+      "truck": 4409,
+      "cyclist": 9619,
+      "forklift": 593,
+      "car": 6868
+    }
+  },
+  {
+    "id": 690,
+    "status": "Ready",
+    "endDate": "03/17/2020"
+  },
+  {
+    "id": 691,
+    "status": "Ready",
+    "endDate": "05/17/2020"
+  },
+  {
+    "id": 692,
+    "status": "In-Progress",
+    "endDate": "10/04/2021"
+  },
+  {
+    "id": 693,
+    "status": "Finished",
+    "endDate": "06/16/2021",
+    "result": {
+      "pedestrian": 7146,
+      "rider": 9780,
+      "truck": 5850,
+      "cyclist": 1559,
+      "forklift": 4977,
+      "car": 6139
+    }
+  },
+  {
+    "id": 694,
+    "status": "In-Progress",
+    "endDate": "06/24/2020"
+  },
+  {
+    "id": 695,
+    "status": "In-Progress",
+    "endDate": "01/02/2021"
+  },
+  {
+    "id": 696,
+    "status": "Ready",
+    "endDate": "01/27/2020"
+  },
+  {
+    "id": 697,
+    "status": "Ready",
+    "endDate": "07/06/2021"
+  },
+  {
+    "id": 698,
+    "status": "Finished",
+    "endDate": "02/23/2020",
+    "result": {
+      "pedestrian": 334,
+      "rider": 5000,
+      "truck": 8409,
+      "cyclist": 8334,
+      "forklift": 3427,
+      "car": 8856
+    }
+  },
+  {
+    "id": 699,
+    "status": "Finished",
+    "endDate": "03/05/2021",
+    "result": {
+      "pedestrian": 1143,
+      "rider": 4307,
+      "truck": 3489,
+      "cyclist": 3248,
+      "forklift": 3084,
+      "car": 264
+    }
+  },
+  {
+    "id": 700,
+    "status": "Finished",
+    "endDate": "01/01/2021",
+    "result": {
+      "pedestrian": 8244,
+      "rider": 315,
+      "truck": 8597,
+      "cyclist": 4501,
+      "forklift": 6201,
+      "car": 226
+    }
+  },
+  {
+    "id": 701,
+    "status": "Finished",
+    "endDate": "11/15/2020",
+    "result": {
+      "pedestrian": 3509,
+      "rider": 4125,
+      "truck": 53,
+      "cyclist": 177,
+      "forklift": 5228,
+      "car": 7828
+    }
+  },
+  {
+    "id": 702,
+    "status": "Finished",
+    "endDate": "05/28/2021",
+    "result": {
+      "pedestrian": 9365,
+      "rider": 7807,
+      "truck": 5145,
+      "cyclist": 1902,
+      "forklift": 2598,
+      "car": 5450
+    }
+  },
+  {
+    "id": 703,
+    "status": "Ready",
+    "endDate": "07/05/2021"
+  },
+  {
+    "id": 704,
+    "status": "In-Progress",
+    "endDate": "02/03/2020"
+  },
+  {
+    "id": 705,
+    "status": "In-Progress",
+    "endDate": "04/02/2021"
+  },
+  {
+    "id": 706,
+    "status": "Finished",
+    "endDate": "04/23/2021",
+    "result": {
+      "pedestrian": 6183,
+      "rider": 2146,
+      "truck": 6153,
+      "cyclist": 1432,
+      "forklift": 827,
+      "car": 2381
+    }
+  },
+  {
+    "id": 707,
+    "status": "In-Progress",
+    "endDate": "07/20/2021"
+  },
+  {
+    "id": 708,
+    "status": "In-Progress",
+    "endDate": "06/28/2020"
+  },
+  {
+    "id": 709,
+    "status": "Ready",
+    "endDate": "12/05/2021"
+  },
+  {
+    "id": 710,
+    "status": "Ready",
+    "endDate": "11/15/2021"
+  },
+  {
+    "id": 711,
+    "status": "In-Progress",
+    "endDate": "02/08/2021"
+  },
+  {
+    "id": 712,
+    "status": "Finished",
+    "endDate": "07/28/2021",
+    "result": {
+      "pedestrian": 996,
+      "rider": 9954,
+      "truck": 6879,
+      "cyclist": 4224,
+      "forklift": 481,
+      "car": 361
+    }
+  },
+  {
+    "id": 713,
+    "status": "In-Progress",
+    "endDate": "07/16/2021"
+  },
+  {
+    "id": 714,
+    "status": "Ready",
+    "endDate": "03/07/2021"
+  },
+  {
+    "id": 715,
+    "status": "Finished",
+    "endDate": "06/14/2020",
+    "result": {
+      "pedestrian": 3261,
+      "rider": 7301,
+      "truck": 9530,
+      "cyclist": 1567,
+      "forklift": 2165,
+      "car": 5446
+    }
+  },
+  {
+    "id": 716,
+    "status": "Finished",
+    "endDate": "08/16/2020",
+    "result": {
+      "pedestrian": 5920,
+      "rider": 9399,
+      "truck": 9362,
+      "cyclist": 6989,
+      "forklift": 4795,
+      "car": 5975
+    }
+  },
+  {
+    "id": 717,
+    "status": "In-Progress",
+    "endDate": "03/01/2020"
+  },
+  {
+    "id": 718,
+    "status": "Finished",
+    "endDate": "07/18/2020",
+    "result": {
+      "pedestrian": 3440,
+      "rider": 5388,
+      "truck": 1874,
+      "cyclist": 6873,
+      "forklift": 6318,
+      "car": 8419
+    }
+  },
+  {
+    "id": 719,
+    "status": "Finished",
+    "endDate": "03/23/2020",
+    "result": {
+      "pedestrian": 7537,
+      "rider": 7828,
+      "truck": 9209,
+      "cyclist": 5930,
+      "forklift": 7448,
+      "car": 8199
+    }
+  },
+  {
+    "id": 720,
+    "status": "In-Progress",
+    "endDate": "07/04/2020"
+  },
+  {
+    "id": 721,
+    "status": "Ready",
+    "endDate": "05/31/2021"
+  },
+  {
+    "id": 722,
+    "status": "Ready",
+    "endDate": "01/15/2020"
+  },
+  {
+    "id": 723,
+    "status": "In-Progress",
+    "endDate": "01/01/2021"
+  },
+  {
+    "id": 724,
+    "status": "Finished",
+    "endDate": "11/07/2021",
+    "result": {
+      "pedestrian": 6155,
+      "rider": 5464,
+      "truck": 5242,
+      "cyclist": 4629,
+      "forklift": 3151,
+      "car": 5419
+    }
+  },
+  {
+    "id": 725,
+    "status": "Finished",
+    "endDate": "08/10/2020",
+    "result": {
+      "pedestrian": 5486,
+      "rider": 9734,
+      "truck": 4758,
+      "cyclist": 6558,
+      "forklift": 9412,
+      "car": 3088
+    }
+  },
+  {
+    "id": 726,
+    "status": "In-Progress",
+    "endDate": "05/26/2020"
+  },
+  {
+    "id": 727,
+    "status": "In-Progress",
+    "endDate": "08/31/2020"
+  },
+  {
+    "id": 728,
+    "status": "In-Progress",
+    "endDate": "01/18/2021"
+  },
+  {
+    "id": 729,
+    "status": "Finished",
+    "endDate": "01/24/2020",
+    "result": {
+      "pedestrian": 3570,
+      "rider": 8659,
+      "truck": 6445,
+      "cyclist": 9669,
+      "forklift": 1650,
+      "car": 5297
+    }
+  },
+  {
+    "id": 730,
+    "status": "Ready",
+    "endDate": "01/08/2021"
+  },
+  {
+    "id": 731,
+    "status": "Finished",
+    "endDate": "01/26/2020",
+    "result": {
+      "pedestrian": 1156,
+      "rider": 34,
+      "truck": 6339,
+      "cyclist": 722,
+      "forklift": 9706,
+      "car": 7638
+    }
+  },
+  {
+    "id": 732,
+    "status": "Ready",
+    "endDate": "03/25/2020"
+  },
+  {
+    "id": 733,
+    "status": "Finished",
+    "endDate": "05/13/2021",
+    "result": {
+      "pedestrian": 16,
+      "rider": 235,
+      "truck": 561,
+      "cyclist": 705,
+      "forklift": 856,
+      "car": 5438
+    }
+  },
+  {
+    "id": 734,
+    "status": "Ready",
+    "endDate": "07/24/2021"
+  },
+  {
+    "id": 735,
+    "status": "In-Progress",
+    "endDate": "03/22/2021"
+  },
+  {
+    "id": 736,
+    "status": "In-Progress",
+    "endDate": "10/14/2020"
+  },
+  {
+    "id": 737,
+    "status": "In-Progress",
+    "endDate": "02/02/2020"
+  },
+  {
+    "id": 738,
+    "status": "Ready",
+    "endDate": "04/16/2020"
+  },
+  {
+    "id": 739,
+    "status": "In-Progress",
+    "endDate": "01/01/2020"
+  },
+  {
+    "id": 740,
+    "status": "Ready",
+    "endDate": "09/27/2020"
+  },
+  {
+    "id": 741,
+    "status": "Ready",
+    "endDate": "02/08/2021"
+  },
+  {
+    "id": 742,
+    "status": "In-Progress",
+    "endDate": "02/24/2021"
+  },
+  {
+    "id": 743,
+    "status": "Finished",
+    "endDate": "08/11/2021",
+    "result": {
+      "pedestrian": 6064,
+      "rider": 1038,
+      "truck": 6847,
+      "cyclist": 1270,
+      "forklift": 4458,
+      "car": 7855
+    }
+  },
+  {
+    "id": 744,
+    "status": "Ready",
+    "endDate": "11/23/2020"
+  },
+  {
+    "id": 745,
+    "status": "Ready",
+    "endDate": "04/20/2021"
+  },
+  {
+    "id": 746,
+    "status": "In-Progress",
+    "endDate": "05/06/2020"
+  },
+  {
+    "id": 747,
+    "status": "In-Progress",
+    "endDate": "11/05/2021"
+  },
+  {
+    "id": 748,
+    "status": "In-Progress",
+    "endDate": "08/05/2020"
+  },
+  {
+    "id": 749,
+    "status": "In-Progress",
+    "endDate": "09/11/2020"
+  },
+  {
+    "id": 750,
+    "status": "In-Progress",
+    "endDate": "11/10/2020"
+  },
+  {
+    "id": 751,
+    "status": "Finished",
+    "endDate": "12/20/2021",
+    "result": {
+      "pedestrian": 7571,
+      "rider": 5186,
+      "truck": 5711,
+      "cyclist": 3391,
+      "forklift": 9306,
+      "car": 9214
+    }
+  },
+  {
+    "id": 752,
+    "status": "In-Progress",
+    "endDate": "06/02/2021"
+  },
+  {
+    "id": 753,
+    "status": "Ready",
+    "endDate": "02/29/2020"
+  },
+  {
+    "id": 754,
+    "status": "Ready",
+    "endDate": "06/29/2021"
+  },
+  {
+    "id": 755,
+    "status": "Ready",
+    "endDate": "04/29/2020"
+  },
+  {
+    "id": 756,
+    "status": "In-Progress",
+    "endDate": "02/26/2020"
+  },
+  {
+    "id": 757,
+    "status": "In-Progress",
+    "endDate": "10/09/2020"
+  },
+  {
+    "id": 758,
+    "status": "Ready",
+    "endDate": "06/06/2020"
+  },
+  {
+    "id": 759,
+    "status": "Finished",
+    "endDate": "12/11/2021",
+    "result": {
+      "pedestrian": 5847,
+      "rider": 1783,
+      "truck": 5213,
+      "cyclist": 5850,
+      "forklift": 5842,
+      "car": 4822
+    }
+  },
+  {
+    "id": 760,
+    "status": "In-Progress",
+    "endDate": "04/03/2021"
+  },
+  {
+    "id": 761,
+    "status": "Finished",
+    "endDate": "07/12/2021",
+    "result": {
+      "pedestrian": 2056,
+      "rider": 6338,
+      "truck": 4491,
+      "cyclist": 5364,
+      "forklift": 4732,
+      "car": 8764
+    }
+  },
+  {
+    "id": 762,
+    "status": "Finished",
+    "endDate": "05/12/2020",
+    "result": {
+      "pedestrian": 5825,
+      "rider": 4470,
+      "truck": 2373,
+      "cyclist": 188,
+      "forklift": 8169,
+      "car": 3601
+    }
+  },
+  {
+    "id": 763,
+    "status": "Finished",
+    "endDate": "12/27/2020",
+    "result": {
+      "pedestrian": 7676,
+      "rider": 289,
+      "truck": 6633,
+      "cyclist": 488,
+      "forklift": 3154,
+      "car": 4777
+    }
+  },
+  {
+    "id": 764,
+    "status": "Ready",
+    "endDate": "08/18/2020"
+  },
+  {
+    "id": 765,
+    "status": "Ready",
+    "endDate": "10/11/2020"
+  },
+  {
+    "id": 766,
+    "status": "In-Progress",
+    "endDate": "08/01/2021"
+  },
+  {
+    "id": 767,
+    "status": "In-Progress",
+    "endDate": "02/28/2021"
+  },
+  {
+    "id": 768,
+    "status": "Ready",
+    "endDate": "07/30/2020"
+  },
+  {
+    "id": 769,
+    "status": "Finished",
+    "endDate": "03/07/2020",
+    "result": {
+      "pedestrian": 9082,
+      "rider": 2804,
+      "truck": 7002,
+      "cyclist": 7413,
+      "forklift": 7931,
+      "car": 6300
+    }
+  },
+  {
+    "id": 770,
+    "status": "In-Progress",
+    "endDate": "11/07/2021"
+  },
+  {
+    "id": 771,
+    "status": "Ready",
+    "endDate": "06/20/2021"
+  },
+  {
+    "id": 772,
+    "status": "Ready",
+    "endDate": "05/28/2021"
+  },
+  {
+    "id": 773,
+    "status": "Finished",
+    "endDate": "03/29/2021",
+    "result": {
+      "pedestrian": 6796,
+      "rider": 4900,
+      "truck": 1754,
+      "cyclist": 6263,
+      "forklift": 2251,
+      "car": 5043
+    }
+  },
+  {
+    "id": 774,
+    "status": "In-Progress",
+    "endDate": "04/10/2020"
+  },
+  {
+    "id": 775,
+    "status": "Ready",
+    "endDate": "01/25/2020"
+  },
+  {
+    "id": 776,
+    "status": "Finished",
+    "endDate": "12/24/2020",
+    "result": {
+      "pedestrian": 9991,
+      "rider": 5910,
+      "truck": 5295,
+      "cyclist": 6015,
+      "forklift": 3371,
+      "car": 2296
+    }
+  },
+  {
+    "id": 777,
+    "status": "In-Progress",
+    "endDate": "01/21/2021"
+  },
+  {
+    "id": 778,
+    "status": "Ready",
+    "endDate": "04/22/2021"
+  },
+  {
+    "id": 779,
+    "status": "In-Progress",
+    "endDate": "06/05/2021"
+  },
+  {
+    "id": 780,
+    "status": "Finished",
+    "endDate": "04/03/2020",
+    "result": {
+      "pedestrian": 3550,
+      "rider": 2635,
+      "truck": 8889,
+      "cyclist": 7545,
+      "forklift": 8985,
+      "car": 6618
+    }
+  },
+  {
+    "id": 781,
+    "status": "Finished",
+    "endDate": "04/05/2021",
+    "result": {
+      "pedestrian": 9833,
+      "rider": 825,
+      "truck": 4038,
+      "cyclist": 131,
+      "forklift": 3610,
+      "car": 1412
+    }
+  },
+  {
+    "id": 782,
+    "status": "In-Progress",
+    "endDate": "12/11/2020"
+  },
+  {
+    "id": 783,
+    "status": "Ready",
+    "endDate": "04/02/2020"
+  },
+  {
+    "id": 784,
+    "status": "In-Progress",
+    "endDate": "11/14/2021"
+  },
+  {
+    "id": 785,
+    "status": "Finished",
+    "endDate": "06/07/2020",
+    "result": {
+      "pedestrian": 6962,
+      "rider": 4805,
+      "truck": 7905,
+      "cyclist": 3232,
+      "forklift": 6971,
+      "car": 1887
+    }
+  },
+  {
+    "id": 786,
+    "status": "Ready",
+    "endDate": "10/22/2020"
+  },
+  {
+    "id": 787,
+    "status": "In-Progress",
+    "endDate": "08/10/2020"
+  },
+  {
+    "id": 788,
+    "status": "In-Progress",
+    "endDate": "10/18/2020"
+  },
+  {
+    "id": 789,
+    "status": "In-Progress",
+    "endDate": "06/14/2020"
+  },
+  {
+    "id": 790,
+    "status": "Finished",
+    "endDate": "11/09/2021",
+    "result": {
+      "pedestrian": 9431,
+      "rider": 3491,
+      "truck": 575,
+      "cyclist": 2374,
+      "forklift": 1792,
+      "car": 6464
+    }
+  },
+  {
+    "id": 791,
+    "status": "Ready",
+    "endDate": "05/05/2020"
+  },
+  {
+    "id": 792,
+    "status": "In-Progress",
+    "endDate": "09/13/2020"
+  },
+  {
+    "id": 793,
+    "status": "Ready",
+    "endDate": "05/31/2021"
+  },
+  {
+    "id": 794,
+    "status": "Ready",
+    "endDate": "10/04/2021"
+  },
+  {
+    "id": 795,
+    "status": "In-Progress",
+    "endDate": "12/17/2020"
+  },
+  {
+    "id": 796,
+    "status": "In-Progress",
+    "endDate": "05/29/2020"
+  },
+  {
+    "id": 797,
+    "status": "Finished",
+    "endDate": "07/17/2021",
+    "result": {
+      "pedestrian": 1429,
+      "rider": 1203,
+      "truck": 1065,
+      "cyclist": 5591,
+      "forklift": 5775,
+      "car": 2264
+    }
+  },
+  {
+    "id": 798,
+    "status": "Ready",
+    "endDate": "02/04/2021"
+  },
+  {
+    "id": 799,
+    "status": "Finished",
+    "endDate": "07/31/2021",
+    "result": {
+      "pedestrian": 2575,
+      "rider": 1439,
+      "truck": 4382,
+      "cyclist": 227,
+      "forklift": 6691,
+      "car": 6258
+    }
+  },
+  {
+    "id": 800,
+    "status": "Ready",
+    "endDate": "02/19/2021"
+  },
+  {
+    "id": 801,
+    "status": "Ready",
+    "endDate": "07/03/2020"
+  },
+  {
+    "id": 802,
+    "status": "Ready",
+    "endDate": "01/11/2021"
+  },
+  {
+    "id": 803,
+    "status": "In-Progress",
+    "endDate": "05/10/2020"
+  },
+  {
+    "id": 804,
+    "status": "In-Progress",
+    "endDate": "10/18/2020"
+  },
+  {
+    "id": 805,
+    "status": "In-Progress",
+    "endDate": "09/27/2021"
+  },
+  {
+    "id": 806,
+    "status": "In-Progress",
+    "endDate": "08/31/2020"
+  },
+  {
+    "id": 807,
+    "status": "Finished",
+    "endDate": "03/30/2021",
+    "result": {
+      "pedestrian": 8611,
+      "rider": 8679,
+      "truck": 937,
+      "cyclist": 8629,
+      "forklift": 139,
+      "car": 4973
+    }
+  },
+  {
+    "id": 808,
+    "status": "Finished",
+    "endDate": "12/05/2021",
+    "result": {
+      "pedestrian": 7645,
+      "rider": 1250,
+      "truck": 846,
+      "cyclist": 7154,
+      "forklift": 6109,
+      "car": 1080
+    }
+  },
+  {
+    "id": 809,
+    "status": "Finished",
+    "endDate": "04/22/2020",
+    "result": {
+      "pedestrian": 9263,
+      "rider": 9326,
+      "truck": 1874,
+      "cyclist": 1527,
+      "forklift": 9231,
+      "car": 2615
+    }
+  },
+  {
+    "id": 810,
+    "status": "Finished",
+    "endDate": "03/22/2021",
+    "result": {
+      "pedestrian": 8983,
+      "rider": 7634,
+      "truck": 3876,
+      "cyclist": 7592,
+      "forklift": 5155,
+      "car": 217
+    }
+  },
+  {
+    "id": 811,
+    "status": "Finished",
+    "endDate": "12/21/2021",
+    "result": {
+      "pedestrian": 8192,
+      "rider": 698,
+      "truck": 2005,
+      "cyclist": 4784,
+      "forklift": 897,
+      "car": 5201
+    }
+  },
+  {
+    "id": 812,
+    "status": "Ready",
+    "endDate": "08/04/2021"
+  },
+  {
+    "id": 813,
+    "status": "In-Progress",
+    "endDate": "08/11/2021"
+  },
+  {
+    "id": 814,
+    "status": "Ready",
+    "endDate": "03/26/2020"
+  },
+  {
+    "id": 815,
+    "status": "In-Progress",
+    "endDate": "04/07/2020"
+  },
+  {
+    "id": 816,
+    "status": "Finished",
+    "endDate": "10/29/2020",
+    "result": {
+      "pedestrian": 3445,
+      "rider": 9332,
+      "truck": 9592,
+      "cyclist": 8094,
+      "forklift": 5555,
+      "car": 7106
+    }
+  },
+  {
+    "id": 817,
+    "status": "Ready",
+    "endDate": "08/13/2020"
+  },
+  {
+    "id": 818,
+    "status": "In-Progress",
+    "endDate": "02/05/2021"
+  },
+  {
+    "id": 819,
+    "status": "In-Progress",
+    "endDate": "10/17/2020"
+  },
+  {
+    "id": 820,
+    "status": "Finished",
+    "endDate": "01/10/2021",
+    "result": {
+      "pedestrian": 1891,
+      "rider": 914,
+      "truck": 718,
+      "cyclist": 5723,
+      "forklift": 1895,
+      "car": 7227
+    }
+  },
+  {
+    "id": 821,
+    "status": "Finished",
+    "endDate": "12/20/2020",
+    "result": {
+      "pedestrian": 3312,
+      "rider": 6282,
+      "truck": 2303,
+      "cyclist": 4355,
+      "forklift": 331,
+      "car": 2004
+    }
+  },
+  {
+    "id": 822,
+    "status": "Ready",
+    "endDate": "05/05/2021"
+  },
+  {
+    "id": 823,
+    "status": "In-Progress",
+    "endDate": "01/05/2020"
+  },
+  {
+    "id": 824,
+    "status": "Finished",
+    "endDate": "01/19/2021",
+    "result": {
+      "pedestrian": 3956,
+      "rider": 2366,
+      "truck": 7991,
+      "cyclist": 7151,
+      "forklift": 4128,
+      "car": 8371
+    }
+  },
+  {
+    "id": 825,
+    "status": "In-Progress",
+    "endDate": "08/11/2021"
+  },
+  {
+    "id": 826,
+    "status": "Finished",
+    "endDate": "09/17/2021",
+    "result": {
+      "pedestrian": 7443,
+      "rider": 2970,
+      "truck": 3412,
+      "cyclist": 4607,
+      "forklift": 5484,
+      "car": 9460
+    }
+  },
+  {
+    "id": 827,
+    "status": "Finished",
+    "endDate": "05/21/2021",
+    "result": {
+      "pedestrian": 9347,
+      "rider": 5481,
+      "truck": 7411,
+      "cyclist": 7114,
+      "forklift": 2121,
+      "car": 711
+    }
+  },
+  {
+    "id": 828,
+    "status": "Ready",
+    "endDate": "09/01/2020"
+  },
+  {
+    "id": 829,
+    "status": "Finished",
+    "endDate": "03/18/2020",
+    "result": {
+      "pedestrian": 7862,
+      "rider": 6515,
+      "truck": 6640,
+      "cyclist": 1730,
+      "forklift": 507,
+      "car": 1183
+    }
+  },
+  {
+    "id": 830,
+    "status": "Ready",
+    "endDate": "04/22/2021"
+  },
+  {
+    "id": 831,
+    "status": "In-Progress",
+    "endDate": "06/08/2021"
+  },
+  {
+    "id": 832,
+    "status": "In-Progress",
+    "endDate": "01/31/2020"
+  },
+  {
+    "id": 833,
+    "status": "Finished",
+    "endDate": "01/14/2020",
+    "result": {
+      "pedestrian": 7276,
+      "rider": 2871,
+      "truck": 1158,
+      "cyclist": 2910,
+      "forklift": 7092,
+      "car": 92
+    }
+  },
+  {
+    "id": 834,
+    "status": "Ready",
+    "endDate": "03/31/2020"
+  },
+  {
+    "id": 835,
+    "status": "In-Progress",
+    "endDate": "03/18/2020"
+  },
+  {
+    "id": 836,
+    "status": "In-Progress",
+    "endDate": "02/25/2021"
+  },
+  {
+    "id": 837,
+    "status": "In-Progress",
+    "endDate": "04/10/2020"
+  },
+  {
+    "id": 838,
+    "status": "Finished",
+    "endDate": "07/28/2020",
+    "result": {
+      "pedestrian": 6065,
+      "rider": 2375,
+      "truck": 7207,
+      "cyclist": 1666,
+      "forklift": 8637,
+      "car": 8466
+    }
+  },
+  {
+    "id": 839,
+    "status": "Ready",
+    "endDate": "06/12/2021"
+  },
+  {
+    "id": 840,
+    "status": "In-Progress",
+    "endDate": "07/25/2020"
+  },
+  {
+    "id": 841,
+    "status": "Finished",
+    "endDate": "11/12/2020",
+    "result": {
+      "pedestrian": 5077,
+      "rider": 9004,
+      "truck": 2032,
+      "cyclist": 8951,
+      "forklift": 4859,
+      "car": 7870
+    }
+  },
+  {
+    "id": 842,
+    "status": "Ready",
+    "endDate": "01/02/2022"
+  },
+  {
+    "id": 843,
+    "status": "Finished",
+    "endDate": "01/30/2021",
+    "result": {
+      "pedestrian": 3610,
+      "rider": 7357,
+      "truck": 6127,
+      "cyclist": 9596,
+      "forklift": 2295,
+      "car": 1068
+    }
+  },
+  {
+    "id": 844,
+    "status": "Ready",
+    "endDate": "08/02/2020"
+  },
+  {
+    "id": 845,
+    "status": "Finished",
+    "endDate": "07/05/2020",
+    "result": {
+      "pedestrian": 8588,
+      "rider": 897,
+      "truck": 7537,
+      "cyclist": 7497,
+      "forklift": 3007,
+      "car": 7996
+    }
+  },
+  {
+    "id": 846,
+    "status": "Ready",
+    "endDate": "09/01/2021"
+  },
+  {
+    "id": 847,
+    "status": "In-Progress",
+    "endDate": "02/17/2021"
+  },
+  {
+    "id": 848,
+    "status": "Ready",
+    "endDate": "08/10/2020"
+  },
+  {
+    "id": 849,
+    "status": "Ready",
+    "endDate": "11/07/2021"
+  },
+  {
+    "id": 850,
+    "status": "In-Progress",
+    "endDate": "10/28/2020"
+  },
+  {
+    "id": 851,
+    "status": "In-Progress",
+    "endDate": "08/05/2020"
+  },
+  {
+    "id": 852,
+    "status": "Ready",
+    "endDate": "09/11/2020"
+  },
+  {
+    "id": 853,
+    "status": "Finished",
+    "endDate": "04/05/2021",
+    "result": {
+      "pedestrian": 1644,
+      "rider": 3646,
+      "truck": 2537,
+      "cyclist": 1554,
+      "forklift": 1865,
+      "car": 1738
+    }
+  },
+  {
+    "id": 854,
+    "status": "Finished",
+    "endDate": "02/08/2021",
+    "result": {
+      "pedestrian": 4610,
+      "rider": 3420,
+      "truck": 5789,
+      "cyclist": 3094,
+      "forklift": 6856,
+      "car": 8482
+    }
+  },
+  {
+    "id": 855,
+    "status": "Ready",
+    "endDate": "01/31/2021"
+  },
+  {
+    "id": 856,
+    "status": "Ready",
+    "endDate": "09/20/2020"
+  },
+  {
+    "id": 857,
+    "status": "Finished",
+    "endDate": "11/07/2021",
+    "result": {
+      "pedestrian": 944,
+      "rider": 4454,
+      "truck": 2613,
+      "cyclist": 30,
+      "forklift": 7056,
+      "car": 5844
+    }
+  },
+  {
+    "id": 858,
+    "status": "Finished",
+    "endDate": "06/11/2020",
+    "result": {
+      "pedestrian": 3733,
+      "rider": 2454,
+      "truck": 7485,
+      "cyclist": 3841,
+      "forklift": 3850,
+      "car": 1267
+    }
+  },
+  {
+    "id": 859,
+    "status": "In-Progress",
+    "endDate": "02/11/2021"
+  },
+  {
+    "id": 860,
+    "status": "Finished",
+    "endDate": "03/05/2021",
+    "result": {
+      "pedestrian": 2584,
+      "rider": 1480,
+      "truck": 9701,
+      "cyclist": 4870,
+      "forklift": 5580,
+      "car": 5677
+    }
+  },
+  {
+    "id": 861,
+    "status": "Ready",
+    "endDate": "01/12/2020"
+  },
+  {
+    "id": 862,
+    "status": "Finished",
+    "endDate": "01/31/2021",
+    "result": {
+      "pedestrian": 6091,
+      "rider": 9604,
+      "truck": 9254,
+      "cyclist": 7861,
+      "forklift": 8525,
+      "car": 4038
+    }
+  },
+  {
+    "id": 863,
+    "status": "Finished",
+    "endDate": "05/05/2021",
+    "result": {
+      "pedestrian": 9332,
+      "rider": 4264,
+      "truck": 4392,
+      "cyclist": 9585,
+      "forklift": 1977,
+      "car": 102
+    }
+  },
+  {
+    "id": 864,
+    "status": "Finished",
+    "endDate": "10/12/2020",
+    "result": {
+      "pedestrian": 9572,
+      "rider": 1132,
+      "truck": 1950,
+      "cyclist": 5402,
+      "forklift": 5248,
+      "car": 6086
+    }
+  },
+  {
+    "id": 865,
+    "status": "Finished",
+    "endDate": "01/14/2021",
+    "result": {
+      "pedestrian": 356,
+      "rider": 8836,
+      "truck": 4508,
+      "cyclist": 9965,
+      "forklift": 9983,
+      "car": 4960
+    }
+  },
+  {
+    "id": 866,
+    "status": "In-Progress",
+    "endDate": "04/13/2020"
+  },
+  {
+    "id": 867,
+    "status": "Ready",
+    "endDate": "01/08/2020"
+  },
+  {
+    "id": 868,
+    "status": "Finished",
+    "endDate": "01/11/2020",
+    "result": {
+      "pedestrian": 108,
+      "rider": 8714,
+      "truck": 2670,
+      "cyclist": 8720,
+      "forklift": 3369,
+      "car": 4229
+    }
+  },
+  {
+    "id": 869,
+    "status": "Finished",
+    "endDate": "11/04/2020",
+    "result": {
+      "pedestrian": 4945,
+      "rider": 3767,
+      "truck": 7218,
+      "cyclist": 5390,
+      "forklift": 7587,
+      "car": 4319
+    }
+  },
+  {
+    "id": 870,
+    "status": "Finished",
+    "endDate": "07/16/2021",
+    "result": {
+      "pedestrian": 2043,
+      "rider": 4852,
+      "truck": 8792,
+      "cyclist": 3450,
+      "forklift": 8968,
+      "car": 720
+    }
+  },
+  {
+    "id": 871,
+    "status": "Finished",
+    "endDate": "01/08/2021",
+    "result": {
+      "pedestrian": 2040,
+      "rider": 4341,
+      "truck": 1751,
+      "cyclist": 1382,
+      "forklift": 7514,
+      "car": 2114
+    }
+  },
+  {
+    "id": 872,
+    "status": "Finished",
+    "endDate": "01/22/2021",
+    "result": {
+      "pedestrian": 4908,
+      "rider": 1885,
+      "truck": 5928,
+      "cyclist": 5354,
+      "forklift": 9056,
+      "car": 5922
+    }
+  },
+  {
+    "id": 873,
+    "status": "Ready",
+    "endDate": "06/20/2021"
+  },
+  {
+    "id": 874,
+    "status": "Ready",
+    "endDate": "01/03/2020"
+  },
+  {
+    "id": 875,
+    "status": "In-Progress",
+    "endDate": "01/02/2022"
+  },
+  {
+    "id": 876,
+    "status": "Ready",
+    "endDate": "04/16/2020"
+  },
+  {
+    "id": 877,
+    "status": "In-Progress",
+    "endDate": "08/19/2021"
+  },
+  {
+    "id": 878,
+    "status": "Ready",
+    "endDate": "04/11/2020"
+  },
+  {
+    "id": 879,
+    "status": "Ready",
+    "endDate": "01/02/2020"
+  },
+  {
+    "id": 880,
+    "status": "In-Progress",
+    "endDate": "09/16/2020"
+  },
+  {
+    "id": 881,
+    "status": "Ready",
+    "endDate": "02/09/2021"
+  },
+  {
+    "id": 882,
+    "status": "Ready",
+    "endDate": "09/26/2021"
+  },
+  {
+    "id": 883,
+    "status": "Finished",
+    "endDate": "08/31/2020",
+    "result": {
+      "pedestrian": 5944,
+      "rider": 804,
+      "truck": 8724,
+      "cyclist": 5446,
+      "forklift": 1856,
+      "car": 8086
+    }
+  },
+  {
+    "id": 884,
+    "status": "Ready",
+    "endDate": "11/26/2021"
+  },
+  {
+    "id": 885,
+    "status": "Finished",
+    "endDate": "09/07/2020",
+    "result": {
+      "pedestrian": 4890,
+      "rider": 3116,
+      "truck": 1344,
+      "cyclist": 8468,
+      "forklift": 6295,
+      "car": 9931
+    }
+  },
+  {
+    "id": 886,
+    "status": "Ready",
+    "endDate": "07/16/2020"
+  },
+  {
+    "id": 887,
+    "status": "Finished",
+    "endDate": "04/28/2021",
+    "result": {
+      "pedestrian": 4028,
+      "rider": 5830,
+      "truck": 3265,
+      "cyclist": 9013,
+      "forklift": 290,
+      "car": 8245
+    }
+  },
+  {
+    "id": 888,
+    "status": "Ready",
+    "endDate": "05/26/2020"
+  },
+  {
+    "id": 889,
+    "status": "Ready",
+    "endDate": "08/02/2021"
+  },
+  {
+    "id": 890,
+    "status": "Ready",
+    "endDate": "01/07/2021"
+  },
+  {
+    "id": 891,
+    "status": "Finished",
+    "endDate": "03/03/2021",
+    "result": {
+      "pedestrian": 9506,
+      "rider": 5651,
+      "truck": 519,
+      "cyclist": 9004,
+      "forklift": 7206,
+      "car": 7179
+    }
+  },
+  {
+    "id": 892,
+    "status": "In-Progress",
+    "endDate": "10/05/2021"
+  },
+  {
+    "id": 893,
+    "status": "Ready",
+    "endDate": "01/07/2020"
+  },
+  {
+    "id": 894,
+    "status": "In-Progress",
+    "endDate": "06/03/2021"
+  },
+  {
+    "id": 895,
+    "status": "In-Progress",
+    "endDate": "08/31/2020"
+  },
+  {
+    "id": 896,
+    "status": "Finished",
+    "endDate": "10/12/2021",
+    "result": {
+      "pedestrian": 3061,
+      "rider": 1407,
+      "truck": 6212,
+      "cyclist": 8593,
+      "forklift": 6912,
+      "car": 1817
+    }
+  },
+  {
+    "id": 897,
+    "status": "Ready",
+    "endDate": "11/22/2020"
+  },
+  {
+    "id": 898,
+    "status": "In-Progress",
+    "endDate": "06/15/2021"
+  },
+  {
+    "id": 899,
+    "status": "Ready",
+    "endDate": "03/15/2021"
+  },
+  {
+    "id": 900,
+    "status": "Finished",
+    "endDate": "04/03/2020",
+    "result": {
+      "pedestrian": 2080,
+      "rider": 3144,
+      "truck": 5419,
+      "cyclist": 3255,
+      "forklift": 6673,
+      "car": 1797
+    }
+  },
+  {
+    "id": 901,
+    "status": "Ready",
+    "endDate": "10/10/2020"
+  },
+  {
+    "id": 902,
+    "status": "Ready",
+    "endDate": "03/09/2021"
+  },
+  {
+    "id": 903,
+    "status": "Finished",
+    "endDate": "12/28/2021",
+    "result": {
+      "pedestrian": 6898,
+      "rider": 572,
+      "truck": 5434,
+      "cyclist": 4753,
+      "forklift": 2052,
+      "car": 7395
+    }
+  },
+  {
+    "id": 904,
+    "status": "Ready",
+    "endDate": "07/31/2020"
+  },
+  {
+    "id": 905,
+    "status": "In-Progress",
+    "endDate": "10/07/2021"
+  },
+  {
+    "id": 906,
+    "status": "In-Progress",
+    "endDate": "03/10/2021"
+  },
+  {
+    "id": 907,
+    "status": "In-Progress",
+    "endDate": "03/21/2020"
+  },
+  {
+    "id": 908,
+    "status": "Finished",
+    "endDate": "05/17/2021",
+    "result": {
+      "pedestrian": 1859,
+      "rider": 230,
+      "truck": 8612,
+      "cyclist": 9878,
+      "forklift": 3694,
+      "car": 7919
+    }
+  },
+  {
+    "id": 909,
+    "status": "Ready",
+    "endDate": "04/08/2020"
+  },
+  {
+    "id": 910,
+    "status": "Finished",
+    "endDate": "04/07/2020",
+    "result": {
+      "pedestrian": 7856,
+      "rider": 608,
+      "truck": 3181,
+      "cyclist": 5142,
+      "forklift": 5130,
+      "car": 9840
+    }
+  },
+  {
+    "id": 911,
+    "status": "Ready",
+    "endDate": "11/26/2021"
+  },
+  {
+    "id": 912,
+    "status": "Ready",
+    "endDate": "02/21/2021"
+  },
+  {
+    "id": 913,
+    "status": "In-Progress",
+    "endDate": "07/18/2020"
+  },
+  {
+    "id": 914,
+    "status": "In-Progress",
+    "endDate": "09/28/2020"
+  },
+  {
+    "id": 915,
+    "status": "Finished",
+    "endDate": "11/01/2021",
+    "result": {
+      "pedestrian": 880,
+      "rider": 6659,
+      "truck": 2361,
+      "cyclist": 6916,
+      "forklift": 6283,
+      "car": 1346
+    }
+  },
+  {
+    "id": 916,
+    "status": "Finished",
+    "endDate": "06/06/2020",
+    "result": {
+      "pedestrian": 386,
+      "rider": 1749,
+      "truck": 7377,
+      "cyclist": 8890,
+      "forklift": 6491,
+      "car": 6091
+    }
+  },
+  {
+    "id": 917,
+    "status": "In-Progress",
+    "endDate": "10/21/2021"
+  },
+  {
+    "id": 918,
+    "status": "In-Progress",
+    "endDate": "02/10/2021"
+  },
+  {
+    "id": 919,
+    "status": "Finished",
+    "endDate": "04/06/2021",
+    "result": {
+      "pedestrian": 3019,
+      "rider": 3601,
+      "truck": 4500,
+      "cyclist": 7310,
+      "forklift": 6931,
+      "car": 7469
+    }
+  },
+  {
+    "id": 920,
+    "status": "Ready",
+    "endDate": "06/05/2021"
+  },
+  {
+    "id": 921,
+    "status": "Finished",
+    "endDate": "09/11/2020",
+    "result": {
+      "pedestrian": 720,
+      "rider": 4739,
+      "truck": 1851,
+      "cyclist": 8311,
+      "forklift": 9104,
+      "car": 5205
+    }
+  },
+  {
+    "id": 922,
+    "status": "Ready",
+    "endDate": "11/12/2021"
+  },
+  {
+    "id": 923,
+    "status": "In-Progress",
+    "endDate": "01/08/2020"
+  },
+  {
+    "id": 924,
+    "status": "In-Progress",
+    "endDate": "11/15/2021"
+  },
+  {
+    "id": 925,
+    "status": "In-Progress",
+    "endDate": "04/05/2020"
+  },
+  {
+    "id": 926,
+    "status": "Finished",
+    "endDate": "04/16/2020",
+    "result": {
+      "pedestrian": 1096,
+      "rider": 8475,
+      "truck": 1018,
+      "cyclist": 224,
+      "forklift": 5004,
+      "car": 3633
+    }
+  },
+  {
+    "id": 927,
+    "status": "Ready",
+    "endDate": "05/15/2020"
+  },
+  {
+    "id": 928,
+    "status": "In-Progress",
+    "endDate": "08/04/2021"
+  },
+  {
+    "id": 929,
+    "status": "In-Progress",
+    "endDate": "02/11/2020"
+  },
+  {
+    "id": 930,
+    "status": "In-Progress",
+    "endDate": "03/17/2021"
+  },
+  {
+    "id": 931,
+    "status": "In-Progress",
+    "endDate": "05/06/2021"
+  },
+  {
+    "id": 932,
+    "status": "Finished",
+    "endDate": "03/18/2020",
+    "result": {
+      "pedestrian": 8399,
+      "rider": 8844,
+      "truck": 2807,
+      "cyclist": 3905,
+      "forklift": 7449,
+      "car": 6815
+    }
+  },
+  {
+    "id": 933,
+    "status": "Ready",
+    "endDate": "09/15/2021"
+  },
+  {
+    "id": 934,
+    "status": "Finished",
+    "endDate": "12/23/2021",
+    "result": {
+      "pedestrian": 828,
+      "rider": 9757,
+      "truck": 1568,
+      "cyclist": 3900,
+      "forklift": 1094,
+      "car": 4770
+    }
+  },
+  {
+    "id": 935,
+    "status": "In-Progress",
+    "endDate": "08/26/2021"
+  },
+  {
+    "id": 936,
+    "status": "Ready",
+    "endDate": "04/15/2021"
+  },
+  {
+    "id": 937,
+    "status": "Finished",
+    "endDate": "02/05/2021",
+    "result": {
+      "pedestrian": 2530,
+      "rider": 3727,
+      "truck": 2284,
+      "cyclist": 5997,
+      "forklift": 7202,
+      "car": 8446
+    }
+  },
+  {
+    "id": 938,
+    "status": "In-Progress",
+    "endDate": "06/28/2020"
+  },
+  {
+    "id": 939,
+    "status": "Finished",
+    "endDate": "07/01/2020",
+    "result": {
+      "pedestrian": 9306,
+      "rider": 2527,
+      "truck": 1424,
+      "cyclist": 5169,
+      "forklift": 7624,
+      "car": 2334
+    }
+  },
+  {
+    "id": 940,
+    "status": "Ready",
+    "endDate": "04/21/2020"
+  },
+  {
+    "id": 941,
+    "status": "In-Progress",
+    "endDate": "10/23/2020"
+  },
+  {
+    "id": 942,
+    "status": "Ready",
+    "endDate": "10/03/2021"
+  },
+  {
+    "id": 943,
+    "status": "In-Progress",
+    "endDate": "01/05/2022"
+  },
+  {
+    "id": 944,
+    "status": "Finished",
+    "endDate": "09/22/2021",
+    "result": {
+      "pedestrian": 616,
+      "rider": 3839,
+      "truck": 6131,
+      "cyclist": 5693,
+      "forklift": 5011,
+      "car": 4608
+    }
+  },
+  {
+    "id": 945,
+    "status": "Ready",
+    "endDate": "07/16/2020"
+  },
+  {
+    "id": 946,
+    "status": "Ready",
+    "endDate": "02/21/2021"
+  },
+  {
+    "id": 947,
+    "status": "Finished",
+    "endDate": "01/28/2020",
+    "result": {
+      "pedestrian": 6804,
+      "rider": 2823,
+      "truck": 7448,
+      "cyclist": 4746,
+      "forklift": 8527,
+      "car": 9067
+    }
+  },
+  {
+    "id": 948,
+    "status": "In-Progress",
+    "endDate": "04/12/2020"
+  },
+  {
+    "id": 949,
+    "status": "Ready",
+    "endDate": "05/24/2021"
+  },
+  {
+    "id": 950,
+    "status": "Ready",
+    "endDate": "09/24/2021"
+  },
+  {
+    "id": 951,
+    "status": "Finished",
+    "endDate": "02/12/2020",
+    "result": {
+      "pedestrian": 506,
+      "rider": 7126,
+      "truck": 7925,
+      "cyclist": 1560,
+      "forklift": 7455,
+      "car": 8195
+    }
+  },
+  {
+    "id": 952,
+    "status": "Ready",
+    "endDate": "12/29/2020"
+  },
+  {
+    "id": 953,
+    "status": "Finished",
+    "endDate": "09/02/2020",
+    "result": {
+      "pedestrian": 8009,
+      "rider": 9481,
+      "truck": 3687,
+      "cyclist": 6795,
+      "forklift": 9194,
+      "car": 3070
+    }
+  },
+  {
+    "id": 954,
+    "status": "Ready",
+    "endDate": "09/16/2021"
+  },
+  {
+    "id": 955,
+    "status": "Finished",
+    "endDate": "09/12/2020",
+    "result": {
+      "pedestrian": 1695,
+      "rider": 7255,
+      "truck": 7542,
+      "cyclist": 9388,
+      "forklift": 6237,
+      "car": 2432
+    }
+  },
+  {
+    "id": 956,
+    "status": "Ready",
+    "endDate": "09/08/2021"
+  },
+  {
+    "id": 957,
+    "status": "Ready",
+    "endDate": "09/25/2020"
+  },
+  {
+    "id": 958,
+    "status": "Ready",
+    "endDate": "09/17/2021"
+  },
+  {
+    "id": 959,
+    "status": "Ready",
+    "endDate": "12/24/2020"
+  },
+  {
+    "id": 960,
+    "status": "Ready",
+    "endDate": "07/03/2020"
+  },
+  {
+    "id": 961,
+    "status": "In-Progress",
+    "endDate": "08/29/2020"
+  },
+  {
+    "id": 962,
+    "status": "In-Progress",
+    "endDate": "03/07/2021"
+  },
+  {
+    "id": 963,
+    "status": "Finished",
+    "endDate": "07/11/2020",
+    "result": {
+      "pedestrian": 9441,
+      "rider": 547,
+      "truck": 5264,
+      "cyclist": 6132,
+      "forklift": 3082,
+      "car": 8668
+    }
+  },
+  {
+    "id": 964,
+    "status": "Ready",
+    "endDate": "09/15/2021"
+  },
+  {
+    "id": 965,
+    "status": "Ready",
+    "endDate": "05/09/2021"
+  },
+  {
+    "id": 966,
+    "status": "Finished",
+    "endDate": "12/15/2020",
+    "result": {
+      "pedestrian": 5721,
+      "rider": 4929,
+      "truck": 5344,
+      "cyclist": 5872,
+      "forklift": 2018,
+      "car": 8104
+    }
+  },
+  {
+    "id": 967,
+    "status": "In-Progress",
+    "endDate": "11/13/2021"
+  },
+  {
+    "id": 968,
+    "status": "Ready",
+    "endDate": "08/30/2021"
+  },
+  {
+    "id": 969,
+    "status": "Ready",
+    "endDate": "12/15/2021"
+  },
+  {
+    "id": 970,
+    "status": "In-Progress",
+    "endDate": "10/07/2021"
+  },
+  {
+    "id": 971,
+    "status": "Finished",
+    "endDate": "02/15/2021",
+    "result": {
+      "pedestrian": 8992,
+      "rider": 6750,
+      "truck": 7656,
+      "cyclist": 2997,
+      "forklift": 9940,
+      "car": 5712
+    }
+  },
+  {
+    "id": 972,
+    "status": "Ready",
+    "endDate": "12/11/2020"
+  },
+  {
+    "id": 973,
+    "status": "Ready",
+    "endDate": "12/25/2021"
+  },
+  {
+    "id": 974,
+    "status": "In-Progress",
+    "endDate": "01/27/2020"
+  },
+  {
+    "id": 975,
+    "status": "Ready",
+    "endDate": "05/21/2020"
+  },
+  {
+    "id": 976,
+    "status": "Finished",
+    "endDate": "04/25/2021",
+    "result": {
+      "pedestrian": 6335,
+      "rider": 4177,
+      "truck": 4661,
+      "cyclist": 2801,
+      "forklift": 9797,
+      "car": 2514
+    }
+  },
+  {
+    "id": 977,
+    "status": "In-Progress",
+    "endDate": "10/22/2021"
+  },
+  {
+    "id": 978,
+    "status": "Ready",
+    "endDate": "09/09/2020"
+  },
+  {
+    "id": 979,
+    "status": "Ready",
+    "endDate": "07/14/2020"
+  },
+  {
+    "id": 980,
+    "status": "Ready",
+    "endDate": "03/06/2021"
+  },
+  {
+    "id": 981,
+    "status": "Finished",
+    "endDate": "06/05/2021",
+    "result": {
+      "pedestrian": 6212,
+      "rider": 6873,
+      "truck": 5451,
+      "cyclist": 3502,
+      "forklift": 8377,
+      "car": 8265
+    }
+  },
+  {
+    "id": 982,
+    "status": "Finished",
+    "endDate": "01/13/2021",
+    "result": {
+      "pedestrian": 8205,
+      "rider": 2404,
+      "truck": 1528,
+      "cyclist": 5737,
+      "forklift": 4860,
+      "car": 6880
+    }
+  },
+  {
+    "id": 983,
+    "status": "In-Progress",
+    "endDate": "03/13/2020"
+  },
+  {
+    "id": 984,
+    "status": "In-Progress",
+    "endDate": "03/11/2021"
+  },
+  {
+    "id": 985,
+    "status": "Finished",
+    "endDate": "08/11/2020",
+    "result": {
+      "pedestrian": 7103,
+      "rider": 1106,
+      "truck": 2136,
+      "cyclist": 9809,
+      "forklift": 2263,
+      "car": 3093
+    }
+  },
+  {
+    "id": 986,
+    "status": "Finished",
+    "endDate": "07/05/2021",
+    "result": {
+      "pedestrian": 3014,
+      "rider": 5478,
+      "truck": 745,
+      "cyclist": 8699,
+      "forklift": 925,
+      "car": 5692
+    }
+  },
+  {
+    "id": 987,
+    "status": "Finished",
+    "endDate": "06/14/2021",
+    "result": {
+      "pedestrian": 710,
+      "rider": 9741,
+      "truck": 9902,
+      "cyclist": 5756,
+      "forklift": 8890,
+      "car": 167
+    }
+  }
+]

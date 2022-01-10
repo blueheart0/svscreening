@@ -1,0 +1,172 @@
+{
+  "userData": [
+    {
+      "id": "user-1",
+      "userName": "Gareth Bale",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 101,
+          "totalReworkRatio": "5%",
+          "recentReworkRatio": "5%",
+          "avgLabelingTime": "03:33"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 102,
+          "totalReworkRatio": "3%",
+          "recentReworkRatio": "6%",
+          "avgLabelingTime": "02:33"
+        },
+        "spline": {
+          "totalAnnotationCount": 115,
+          "totalReworkRatio": "7%",
+          "recentReworkRatio": "3%",
+          "avgLabelingTime": "02:33"
+        }
+      }
+    },
+    {
+      "id": "user-2",
+      "userName": "Harry Kane",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 20100,
+          "totalReworkRatio": "0.2%",
+          "recentReworkRatio": "0.1%",
+          "avgLabelingTime": "03:33"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 11123,
+          "totalReworkRatio": "0.3%",
+          "recentReworkRatio": "0.8%",
+          "avgLabelingTime": "02:33"
+        },
+        "spline": {
+          "totalAnnotationCount": 28777,
+          "totalReworkRatio": "7%",
+          "recentReworkRatio": "3%",
+          "avgLabelingTime": "02:33"
+        }
+      }
+    },
+    {
+      "id": "user-3",
+      "userName": "Dele Alli",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 234,
+          "totalReworkRatio": "0.2%",
+          "recentReworkRatio": "0.1%",
+          "avgLabelingTime": "03:33"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 0,
+          "totalReworkRatio": "0%",
+          "recentReworkRatio": "0%",
+          "avgLabelingTime": "00:00"
+        },
+        "spline": {
+          "totalAnnotationCount": 31889,
+          "totalReworkRatio": "17%",
+          "recentReworkRatio": "23%",
+          "avgLabelingTime": "01:33"
+        }
+      }
+    },
+    {
+      "id": "user-4",
+      "userName": "Danny Rose",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 908,
+          "totalReworkRatio": "12%",
+          "recentReworkRatio": "11%",
+          "avgLabelingTime": "04:33"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 11022,
+          "totalReworkRatio": "0.4%",
+          "recentReworkRatio": "0.8%",
+          "avgLabelingTime": "01:12"
+        },
+        "spline": {
+          "totalAnnotationCount": 1672,
+          "totalReworkRatio": "17%",
+          "recentReworkRatio": "23%",
+          "avgLabelingTime": "05:33"
+        }
+      }
+    },
+    {
+      "id": "user-5",
+      "userName": "Hugo Lloris",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 108735,
+          "totalReworkRatio": "0.9%",
+          "recentReworkRatio": "0.8%",
+          "avgLabelingTime": "01:59"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 1011,
+          "totalReworkRatio": "1.2%",
+          "recentReworkRatio": "0.9%",
+          "avgLabelingTime": "05:44"
+        },
+        "spline": {
+          "totalAnnotationCount": 3076,
+          "totalReworkRatio": "2.3%",
+          "recentReworkRatio": "2.1%",
+          "avgLabelingTime": "03:12"
+        }
+      }
+    },
+    {
+      "id": "user-6",
+      "userName": "Lucas Moura",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 0,
+          "totalReworkRatio": "0%",
+          "recentReworkRatio": "0%",
+          "avgLabelingTime": "00:00"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 129,
+          "totalReworkRatio": "10.1%",
+          "recentReworkRatio": "8.3%",
+          "avgLabelingTime": "10:12"
+        },
+        "spline": {
+          "totalAnnotationCount": 0,
+          "totalReworkRatio": "0%",
+          "recentReworkRatio": "0%",
+          "avgLabelingTime": "00:00"
+        }
+      }
+    },
+    {
+      "id": "user-7",
+      "userName": "Karen Cavaller",
+      "performance": {
+        "boundbox": {
+          "totalAnnotationCount": 41171,
+          "totalReworkRatio": "0.3%",
+          "recentReworkRatio": "0.3%",
+          "avgLabelingTime": "02:48"
+        },
+        "innerbox": {
+          "totalAnnotationCount": 13122,
+          "totalReworkRatio": "1.3%",
+          "recentReworkRatio": "1.9%",
+          "avgLabelingTime": "03:43"
+        },
+        "spline": {
+          "totalAnnotationCount": 12721,
+          "totalReworkRatio": "1.1%",
+          "recentReworkRatio": "0.8%",
+          "avgLabelingTime": "01:23"
+        }
+      }
+    }
+  ]
+}
